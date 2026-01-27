@@ -1,0 +1,99 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+	  <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <BaseOutputPath>..\Build</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="bin\**" />
+    <Compile Remove="新文件夹\**" />
+    <EmbeddedResource Remove="bin\**" />
+    <EmbeddedResource Remove="新文件夹\**" />
+    <None Remove="bin\**" />
+    <None Remove="新文件夹\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="PlateHouse\PlateBuildingDef.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="FoundationPit\FoundationPit3dAction.cs~RFc43bd02.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Flee">
+      <HintPath>..\Libs\Flee.dll</HintPath>
+    </Reference>
+    <Reference Include="LightCAD.Core">
+      <HintPath>..\Libs\LightCAD.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="LightCAD.DBUtility">
+      <HintPath>..\Libs\LightCAD.DBUtility.dll</HintPath>
+    </Reference>
+    <Reference Include="LightCAD.Drawing">
+      <HintPath>..\Libs\LightCAD.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="LightCAD.Drawing.Actions">
+      <HintPath>..\Libs\LightCAD.Drawing.Actions.dll</HintPath>
+    </Reference>
+    <Reference Include="LightCAD.MathLib">
+      <HintPath>..\Libs\LightCAD.MathLib.dll</HintPath>
+    </Reference>
+    <Reference Include="LightCAD.Model">
+      <HintPath>..\Libs\LightCAD.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="LightCAD.RenderUtils">
+      <HintPath>..\Libs\LightCAD.RenderUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="LightCAD.Runtime">
+      <HintPath>..\Libs\LightCAD.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="netDxf">
+      <HintPath>..\Libs\netDxf.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\Libs\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK">
+      <HintPath>..\Libs\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK.WinForms">
+      <HintPath>..\Libs\OpenTK.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Svg">
+      <HintPath>..\Libs\Svg.dll</HintPath>
+    </Reference>
+    <Reference Include="ThreeJs4Net">
+      <HintPath>..\Libs\ThreeJs4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="WinFormsUI">
+      <HintPath>..\Libs\WinFormsUI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="PlateHouse\PlateGroupSet.cs" />
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Barrier\" />
+  </ItemGroup>
+
+</Project>

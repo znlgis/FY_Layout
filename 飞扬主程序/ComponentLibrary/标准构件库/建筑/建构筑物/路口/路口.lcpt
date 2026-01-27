@@ -1,0 +1,121 @@
+{
+  "Uuid": "EB8B5267-7C06-56B3-46F4-D4A437B98506",
+  "Major": "A",
+  "Name": "路口",
+  "DisplayName": null,
+  "Description": null,
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "场布施工设计.建构筑物",
+  "SubCategoryName": "路口",
+  "Commands": "Intersection",
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "PropertyDefs2": [
+    {
+      "Name": "Material",
+      "Souce": "Host",
+      "DisplayName": "材质",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1001,
+      "DataType": "Material",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Outline",
+      "Souce": "Host",
+      "DisplayName": "轮廓",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1002,
+      "DataType": "Curve2d",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Bottom",
+      "Souce": "Host",
+      "DisplayName": "顶高度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1003,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": 0,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Thickness",
+      "Souce": "Host",
+      "DisplayName": "厚度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1004,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": 3000,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    }
+  ],
+  "Shape2dProviders": [
+    {
+      "Name": "路口",
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdLayoutProvider.dll",
+      "DllProviderUuid": "6EE9F084-2282-AE79-ADFB-40E497B2CD55"
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Name": "路口",
+      "Type": "Solid3d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdLayoutProvider.dll",
+      "DllProviderUuid": "A5CE971E-DD40-F5F5-712D-F48BC3CFD190"
+    }
+  ]
+}

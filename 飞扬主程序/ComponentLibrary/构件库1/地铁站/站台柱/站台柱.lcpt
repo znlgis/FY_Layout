@@ -1,0 +1,102 @@
+{
+  "Uuid": "053C391E-9DC7-40D4-9D79-108776843197",
+  "Major": "M",
+  "Name": "站台柱",
+  "DisplayName": null,
+  "Description": null,
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "地铁站设计.站台柱",
+  "FilePath": "E:\\WorkCodes\\LightCAD1Fork\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\BuiltinComDefs\\QdMetroStation.lclib",
+  "SubCategoryName": "站台柱",
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "PropertyDefs2": [
+    {
+      "Name": "Material",
+      "Souce": "Host",
+      "DisplayName": "材料",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1001,
+      "DataType": "Material",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Thickness",
+      "Souce": "Host",
+      "DisplayName": "站台柱高度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1002,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": 500,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Bottom",
+      "Souce": "Host",
+      "DisplayName": "底高度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1004,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": 0,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    }
+  ],
+  "Shape2dProviders": [
+    {
+      "Name": "站台柱",
+      "Type": "Shape2d",
+      "SourceType": "System",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdMetroStationProvider.dll",
+      "DllProviderUuid": null
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Name": "站台柱",
+      "Type": "Solid3d",
+      "SourceType": "System",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdMetroStationProvider.dll",
+      "DllProviderUuid": null
+    }
+  ]
+}

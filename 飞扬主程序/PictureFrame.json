@@ -1,0 +1,177 @@
+[
+	{
+		"PictureFrameName": "A0",
+		"Height": "841",
+		"Width": "1189"
+	},
+	{
+		"PictureFrameName": "A0+1/8",
+		"Height": "841",
+		"Width": "1338"
+	},
+	{
+		"PictureFrameName": "A0+1/4",
+		"Height": "841",
+		"Width": "1486"
+	},
+	{
+		"PictureFrameName": "A0+3/8",
+		"Height": "841",
+		"Width": "1635"
+	},
+	{
+		"PictureFrameName": "A0+1/2",
+		"Height": "841",
+		"Width": "1783"
+	},
+	{
+		"PictureFrameName": "A0+5/8",
+		"Height": "841",
+		"Width": "1932"
+	},
+	{
+		"PictureFrameName": "A0+3/4",
+		"Height": "841",
+		"Width": "2080"
+	},
+	{
+		"PictureFrameName": "A0+7/8",
+		"Height": "841",
+		"Width": "2230"
+	},
+	{
+		"PictureFrameName": "A0+1",
+		"Height": "841",
+		"Width": "2378"
+	},
+	{
+		"PictureFrameName": "A1",
+		"Height": "594",
+		"Width": "841"
+	},
+	{
+		"PictureFrameName": "A1+1/4",
+		"Height": "594",
+		"Width": "1051"
+	},
+	{
+		"PictureFrameName": "A1+1/2",
+		"Height": "594",
+		"Width": "1261"
+	},
+	{
+		"PictureFrameName": "A1+3/4",
+		"Height": "594",
+		"Width": "1471"
+	},
+	{
+		"PictureFrameName": "A1+1",
+		"Height": "594",
+		"Width": "1682"
+	},
+	{
+		"PictureFrameName": "A1+5/4",
+		"Height": "594",
+		"Width": "1892"
+	},
+	{
+		"PictureFrameName": "A1+3/2",
+		"Height": "594",
+		"Width": "2102"
+	},
+	{
+		"PictureFrameName": "A2",
+		"Height": "420",
+		"Width": "594"
+	},
+	{
+		"PictureFrameName": "A2+1/4",
+		"Height": "420",
+		"Width": "743"
+	},
+	{
+		"PictureFrameName": "A2+1/2",
+		"Height": "420",
+		"Width": "891"
+	},
+	{
+		"PictureFrameName": "A2+3/4",
+		"Height": "420",
+		"Width": "1041"
+	},
+	{
+		"PictureFrameName": "A2+1",
+		"Height": "420",
+		"Width": "1189"
+	},
+	{
+		"PictureFrameName": "A2+5/4",
+		"Height": "420",
+		"Width": "1338"
+	},
+	{
+		"PictureFrameName": "A2+3/2",
+		"Height": "420",
+		"Width": "1486"
+	},
+	{
+		"PictureFrameName": "A2+7/4",
+		"Height": "420",
+		"Width": "1635"
+	},
+	{
+		"PictureFrameName": "A2+9/4",
+		"Height": "420",
+		"Width": "1932"
+	},
+	{
+		"PictureFrameName": "A3",
+		"Height": "297",
+		"Width": "420"
+	},
+	{
+		"PictureFrameName": "A3+1/2",
+		"Height": "297",
+		"Width": "630"
+	},
+	{
+		"PictureFrameName": "A3+1",
+		"Height": "297",
+		"Width": "841"
+	},
+	{
+		"PictureFrameName": "A3+3/2",
+		"Height": "297",
+		"Width": "1051"
+	},
+	{
+		"PictureFrameName": "A3+2",
+		"Height": "297",
+		"Width": "1261"
+	},
+	{
+		"PictureFrameName": "A3+5/2",
+		"Height": "297",
+		"Width": "1471"
+	},
+	{
+		"PictureFrameName": "A3+7/2",
+		"Height": "297",
+		"Width": "1892"
+	},
+	{
+		"PictureFrameName": "A4",
+		"Height": "210",
+		"Width": "297"
+	},
+	{
+		"PictureFrameName": "A4+1/2",
+		"Height": "210",
+		"Width": "445"
+	},
+	{
+		"PictureFrameName": "A4+1",
+		"Height": "210",
+		"Width": "594"
+	}
+]

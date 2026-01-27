@@ -1,0 +1,351 @@
+{
+  "Uuid": "ECBC86E3-F948-4905-A54F-9B16FD87AFC8",
+  "Major": "A",
+  "Name": "门",
+  "DisplayName": "单扇平开门",
+  "Description": "单扇平开门",
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "建筑施工图设计.门",
+  "FilePath": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinComDefs\\QdArch.lclib",
+  "Thumbnail": null,
+  "SubCategoryName": "平开门",
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "Commands": null,
+  "Features": null,
+  "PropertyDefs2": [
+    {
+      "Name": "Thickness",
+      "Souce": "Host",
+      "DisplayName": "厚度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1001,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "WallThickness",
+      "Souce": "Host",
+      "DisplayName": "墙厚度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1002,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Width",
+      "Souce": "Host",
+      "DisplayName": "宽度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1003,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": 900,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Height",
+      "Souce": "Host",
+      "DisplayName": "高度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1004,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": 2200,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Bottom",
+      "Souce": "Host",
+      "DisplayName": "底高度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1005,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": 0,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "IsLeft",
+      "Souce": "Host",
+      "DisplayName": "是否左开",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1006,
+      "DataType": "Bool",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "IsNear",
+      "Souce": "Host",
+      "DisplayName": "是否在墙体左侧",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1007,
+      "DataType": "Bool",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "DoorMaterial",
+      "Souce": "Host",
+      "DisplayName": "门板材质",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1008,
+      "DataType": "Material",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": {
+        "Uuid": null,
+        "Name": null,
+        "Color": 16776960,
+        "RepeatTexture": null,
+        "Specular": 16777215,
+        "Shininess": 0,
+        "Opcity": 1,
+        "Metalness": 0,
+        "Roughness": 0.800000011920929,
+        "Clearcoat": 0,
+        "ClearcoatRoughness": 0
+      },
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "HandleMaterial",
+      "Souce": "Host",
+      "DisplayName": "把手材质",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1009,
+      "DataType": "Material",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": {
+        "Uuid": null,
+        "Name": null,
+        "Color": 13421772,
+        "RepeatTexture": null,
+        "Specular": 16777215,
+        "Shininess": 0,
+        "Opcity": 1,
+        "Metalness": 0,
+        "Roughness": 0.800000011920929,
+        "Clearcoat": 0,
+        "ClearcoatRoughness": 0
+      },
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    }
+  ],
+  "Shape2dProviders": [
+    {
+      "Name": "单扇平开门全开",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "22826463-76ce-4ddf-ba9f-ac00214249c8",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\平开门\\二维\\单扇平开门全开.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "单扇平开门半开",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "5058bc42-e6c0-4b8c-9e9e-cd7c95c1098a",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\平开门\\二维\\单扇平开门半开.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "单扇平开门开60度",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "6b72710b-81c9-4030-b64e-79779d340344",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\平开门\\二维\\单扇平开门开60度.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "单扇平开门无开启线",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "f751cfcf-21de-40ea-a926-aca1420bef71",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\平开门\\二维\\单扇平开门无开启线.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "单扇平开门全开表门厚",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "cc0f79bd-f6dd-4877-ad5d-3352b8398e10",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\平开门\\二维\\单扇平开门全开表门厚.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "单扇平开门有门框细节",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "630f622b-037b-4dc3-b15f-5e4c986f0f05",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\平开门\\二维\\单扇平开门有门框细节.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "单扇平开玻璃门",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "325f04b0-0bc2-4b3e-815e-bbcbfefd0109",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\平开门\\二维\\单扇平开玻璃门.png"
+      },
+      "Relative3dName": null
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Name": "单扇平开门",
+      "IsDefault": false,
+      "Type": "Solid3d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "977b0ad7-1876-4325-8428-cbc3a6fcded2",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\平开门\\三维\\单扇平开门.png"
+      },
+      "Relative2dName": null
+    }
+  ],
+  "DefaultMaterials2d": {
+    "门板": "7eb119fd-9422-4239-8973-1f8d388f0d84",
+    "把手": "7eb119fd-9422-4239-8973-1f8d388f0d84"
+  },
+  "DefaultMaterials3d": {
+    "门板": "73c6cf18-ec84-4f0f-9bd1-260fe63cc5d1",
+    "把手": "e599cb4a-84d6-4d54-8488-71c015a7279a"
+  },
+  "AlternateMaterial2d": "8e08ec0c-32f4-41ae-888c-96614f2843ce",
+  "AlternateMaterial3d": ""
+}

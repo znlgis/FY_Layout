@@ -1,0 +1,90 @@
+{
+  "Uuid": "8070156E-1A65-2972-D747-99FA6F85B399",
+  "Major": "A",
+  "Name": "分缝",
+  "DisplayName": null,
+  "Description": null,
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "建筑施工图设计.分缝",
+  "FilePath": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinComDefs\\QdArch.lclib",
+  "Thumbnail": null,
+  "SubCategoryName": "分缝",
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "Commands": null,
+  "Features": null,
+  "PropertyDefs2": [
+    {
+      "Name": "Depth",
+      "Souce": "Host",
+      "DisplayName": "厚度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1002,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": 10,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Width",
+      "Souce": "Host",
+      "DisplayName": "宽度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1003,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": 30,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    }
+  ],
+  "Shape2dProviders": [
+    {
+      "Name": "分缝",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "System",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": "",
+      "DllProviderUuid": null,
+      "Thumbnail": null,
+      "Relative3dName": null
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Name": "分缝",
+      "IsDefault": false,
+      "Type": "Solid3d",
+      "SourceType": "System",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": "",
+      "DllProviderUuid": null,
+      "Thumbnail": null,
+      "Relative2dName": null
+    }
+  ]
+}

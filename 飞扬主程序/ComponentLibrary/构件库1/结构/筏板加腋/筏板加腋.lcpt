@@ -1,0 +1,112 @@
+{
+  "Uuid": "C479A6F0-863E-8C8F-645F-C511291B5119",
+  "Major": "S",
+  "Name": "筏板加腋",
+  "ClassName": "筏板加腋",
+  "DisplayName": null,
+  "Description": null,
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "结构施工图设计.筏板加腋",
+  "FilePath": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinComDefs\\QdStruct.lclib",
+  "Thumbnail": null,
+  "SubCategoryName": "筏板加腋",
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "Commands": null,
+  "Features": null,
+  "PropertyDefs2": [
+    {
+      "Name": "Bottom",
+      "Souce": "Host",
+      "DisplayName": "底高度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1003,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "CenterOffset",
+      "Souce": "Host",
+      "DisplayName": "中心偏移",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1005,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "SectType",
+      "Souce": "Host",
+      "DisplayName": "截面类型",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1134,
+      "DataType": "String",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    }
+  ],
+  "Shape2dProviders": [
+    {
+      "Name": null,
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "System",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": null,
+      "DllProviderUuid": null,
+      "Thumbnail": null,
+      "Relative3dName": null
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Name": null,
+      "IsDefault": false,
+      "Type": "Solid3d",
+      "SourceType": "System",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": null,
+      "DllProviderUuid": null,
+      "Thumbnail": null,
+      "Relative2dName": null
+    }
+  ],
+  "AlternateMaterial2d": "8222f3fd-2d45-495e-9f75-cca5d83873f9",
+  "AlternateMaterial3d": "A9AD996E-F3C3-EDE0-18BF-68BE211CEC2F"
+}

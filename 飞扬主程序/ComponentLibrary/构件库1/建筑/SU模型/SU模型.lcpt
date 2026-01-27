@@ -1,0 +1,56 @@
+{
+  "Uuid": "A21479C8-B633-4A02-85A6-C3DD04CA9057",
+  "Major": "A",
+  "Name": "SU模型",
+  "DisplayName": null,
+  "Description": null,
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "建筑施工图设计.SU模型",
+  "FilePath": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinComDefs\\QdArch.lclib",
+  "Thumbnail": null,
+  "SubCategoryName": "SU模型",
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "Commands": null,
+  "Features": null,
+  "PropertyDefs2": [],
+  "Shape2dProviders": [
+    {
+      "Name": "SU模型",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "System",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": null,
+      "Thumbnail": null,
+      "Relative3dName": null
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Name": "SU模型",
+      "IsDefault": false,
+      "Type": "Solid3d",
+      "SourceType": "System",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": null,
+      "Thumbnail": null,
+      "Relative2dName": null
+    }
+  ],
+  "DefaultMaterials2d": {
+    "墙体": "4159ed35-737e-495c-9482-a48ed1dfde02"
+  },
+  "AlternateMaterial2d": "",
+  "AlternateMaterial3d": "adaf364a-e5d4-4bb1-9bb3-9c3a0852c561"
+}

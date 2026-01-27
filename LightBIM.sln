@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QdLayout", "QdLayout\QdLayout.csproj", "{59E4E1AA-0291-45A6-B0E8-02710D75F080}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WorkingDrawing", "WorkingDrawing", "{C4431186-288D-4B90-8C16-737788571214}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{97221518-E06D-4803-8420-03666B771C83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Providers", "Providers", "{04A5E9C8-405B-4BDD-9E96-A6CD5FE5F7EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QdLayoutProvider", "QdLayoutProvider\QdLayoutProvider.csproj", "{15BCF1E7-4134-4233-A4B4-D5EF585EA7E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59E4E1AA-0291-45A6-B0E8-02710D75F080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E4E1AA-0291-45A6-B0E8-02710D75F080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E4E1AA-0291-45A6-B0E8-02710D75F080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E4E1AA-0291-45A6-B0E8-02710D75F080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BCF1E7-4134-4233-A4B4-D5EF585EA7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BCF1E7-4134-4233-A4B4-D5EF585EA7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BCF1E7-4134-4233-A4B4-D5EF585EA7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BCF1E7-4134-4233-A4B4-D5EF585EA7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{97221518-E06D-4803-8420-03666B771C83} = {C4431186-288D-4B90-8C16-737788571214}
+		{04A5E9C8-405B-4BDD-9E96-A6CD5FE5F7EC} = {C4431186-288D-4B90-8C16-737788571214}
+		{15BCF1E7-4134-4233-A4B4-D5EF585EA7E8} = {04A5E9C8-405B-4BDD-9E96-A6CD5FE5F7EC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {839CF304-DA42-4A56-AC85-C9DDA014D21D}
+	EndGlobalSection
+EndGlobal

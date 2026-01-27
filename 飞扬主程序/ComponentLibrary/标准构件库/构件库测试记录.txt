@@ -1,0 +1,5 @@
+D:\20190319autoCAD\Alightcad1\lightcad1\lightcad1\src\LightCAD.WinForm\bin\Debug\net8.0-windows\win-x64\ComponentLibrary\标准构件库\场布\机械设备\三杆附着\三杆附着.lcpt,
+D:\20190319autoCAD\Alightcad1\lightcad1\lightcad1\src\LightCAD.WinForm\bin\Debug\net8.0-windows\win-x64\ComponentLibrary\标准构件库\场布\机械设备\三轴搅拌桩\三轴搅拌桩.lcpt,
+D:\20190319autoCAD\Alightcad1\lightcad1\lightcad1\src\LightCAD.WinForm\bin\Debug\net8.0-windows\win-x64\ComponentLibrary\标准构件库\场布\机械设备\乙炔推车\乙炔推车.lcpt,
+D:\20190319autoCAD\Alightcad1\lightcad1\lightcad1\src\LightCAD.WinForm\bin\Debug\net8.0-windows\win-x64\ComponentLibrary\标准构件库\场布\机械设备\井架\井架.lcpt,
+D:\20190319autoCAD\Alightcad1\lightcad1\lightcad1\src\LightCAD.WinForm\bin\Debug\net8.0-windows\win-x64\ComponentLibrary\标准构件库\场布\机械设备\动臂塔吊\动臂塔吊.lcpt,

@@ -1,0 +1,14 @@
+{
+  "Uuid": "1E63E2F8-E7FC-41BB-A319-D834BBB6C36A",
+  "CompType": "喷淋",
+  "ConnStyle": "立管单插",
+  "Pipes": [
+    {
+      "CategoryName": "建筑施工图设计.管道",
+      "SubCategoryName": "立管",
+      "Name": "立管",
+      "Length": "随设备点位",
+      "Insulation": false
+    }
+  ]
+}

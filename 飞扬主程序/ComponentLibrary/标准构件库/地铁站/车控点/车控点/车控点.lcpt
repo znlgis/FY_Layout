@@ -1,0 +1,102 @@
+{
+  "Uuid": "D8E5F2C7-CD20-4EF6-B776-0EB238DAEA50",
+  "Major": "M",
+  "Name": "车控点",
+  "DisplayName": null,
+  "Description": null,
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "地铁站设计.车控点",
+  "FilePath": "E:\\WorkCodes\\LightCAD1Fork\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\BuiltinComDefs\\QdMetroStation.lclib",
+  "SubCategoryName": "车控点",
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "PropertyDefs2": [
+    {
+      "Name": "Material",
+      "Souce": "Host",
+      "DisplayName": "材料",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1001,
+      "DataType": "Material",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "MarkName",
+      "Souce": "Host",
+      "DisplayName": "名称",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1002,
+      "DataType": "String",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": "车控点",
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "MarkPoint",
+      "Souce": "Host",
+      "DisplayName": "标注点",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1003,
+      "DataType": "Point2d",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    }
+  ],
+  "Shape2dProviders": [
+    {
+      "Name": "车控点",
+      "Type": "Shape2d",
+      "SourceType": "System",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdMetroStationProvider.dll",
+      "DllProviderUuid": null
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Name": "车控点",
+      "Type": "Solid3d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdMetroStationProvider.dll",
+      "DllProviderUuid": "CB719931-9C15-40E0-8E70-7DE3436D95A7"
+    }
+  ]
+}

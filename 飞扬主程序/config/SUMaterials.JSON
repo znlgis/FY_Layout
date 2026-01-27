@@ -1,0 +1,119 @@
+{
+	"Materials": [
+		{
+			"Name": "Default",
+			"Color": "0xE1FFFF",
+			"Opacity": "0.5"
+		},
+		{
+			"Name": "钢筋混凝土(虚线)",
+			"Color": "0xB69E78",
+			"Opacity": "1"
+		},
+		{
+			"Name": "砌体墙(虚线)",
+			"Color": "0xB69E78",
+			"Opacity": "1"
+		},
+		{
+			"Name": "混凝土(虚线)",
+			"Color": "0xB69E78",
+			"Opacity": "1"
+		},
+		{
+			"Name": "加气混凝土(虚线)",
+			"Color": "0xB69E78",
+			"Opacity": "1"
+		},
+		{
+			"Name": "空心砖(虚线)",
+			"Color": "0xB69E78",
+			"Opacity": "1"
+		},
+		{
+			"Name": "多孔材料(虚线)",
+			"Color": "0xB69E78",
+			"Opacity": "1"
+		},
+		{
+			"Name": "六边形(虚线)",
+			"Color": "0xB69E78",
+			"Opacity": "1"
+		},
+		{
+			"Name": "钢筋混凝土",
+			"Color": "0xB69E78",
+			"Opacity": "1"
+		},
+		{
+			"Name": "线脚",
+			"Color": "0xB69E78",
+			"Opacity": "1"
+		},
+		{
+			"Name": "面层",
+			"Color": "0xB69E78",
+			"Opacity": "1"
+		},
+		{
+			"Name": "玻璃",
+			"Color": "0xA5A8A9",
+			"Opacity": "0.5"
+		},
+		{
+			"Name": "透明体",
+			"Color": "0xB69E78",
+			"Opacity": "0.5"
+		},
+		{
+			"Name": "砌体墙",
+			"Color": "0xFFFAF0",
+			"Opacity": "1"
+		},
+		{
+			"Name": "混凝土",
+			"Color": "0xFFFAF0",
+			"Opacity": "1"
+		},
+		{
+			"Name": "加气混凝土",
+			"Color": "0xFFFAF0",
+			"Opacity": "1"
+		},
+		{
+			"Name": "空心砖",
+			"Color": "0xFFFAF0",
+			"Opacity": "1"
+		},
+		{
+			"Name": "多孔材料",
+			"Color": "0xFFFAF0",
+			"Opacity": "1"
+		},
+		{
+			"Name": "六边形",
+			"Color": "0xFFFAF0",
+			"Opacity": "1"
+		},
+		{
+			"Name": "构造柱钢砼",
+			"Color": "0xB69E78",
+			"Opacity": "1"
+		},
+		{
+			"Name": "混凝土外墙",
+			"Color": "0xB69E78",
+			"Opacity": "1"
+		},
+		{
+			"Name": "混凝土窗台",
+			"Color": "0xB69E78",
+			"Opacity": "1"
+		},
+		{
+			"Name": "栏杆",
+			"Color": "0xB69E78",
+			"Opacity": "1"
+		}
+	]
+}

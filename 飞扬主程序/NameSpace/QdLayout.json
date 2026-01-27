@@ -1,0 +1,84 @@
+﻿{
+  "Name": "场布施工设计",
+  "DisplayName": "场布施工设计",
+  "Description": "场布施工行业的类型配置文件",
+  "Categories": [
+    {
+      "Uuid": "c180fbba-c365-44b7-bad6-ebeab1a8b26d",
+      "Name": "安全防护",
+      "DisplayName": "安全防护",
+      "Major": "L",
+      "Description": "安全防护"
+    },
+    {
+      "Uuid": "9bd4f4c6-95fb-4be4-86e0-3e50f5ae8f9a",
+      "Name": "材料堆场",
+      "DisplayName": "材料堆场",
+      "Major": "L",
+      "Description": "材料堆场"
+    },
+    {
+      "Uuid": "8a172a2b-c3ea-4907-b4d1-f1b5fc66b233",
+      "Name": "机械设备",
+      "DisplayName": "机械设备",
+      "Major": "L",
+      "Description": "机械设备"
+    },
+    {
+      "Uuid": "c53ff026-020d-4026-a946-51ccc6abf88c",
+      "Name": "建构筑物",
+      "DisplayName": "建构筑物",
+      "Major": "L",
+      "Description": "建构筑物"
+    },
+    {
+      "Uuid": "55c103ac-8355-4635-954f-2d0409a578ff",
+      "Name": "绿色文明",
+      "DisplayName": "绿色文明",
+      "Major": "L",
+      "Description": "绿色文明"
+    },
+    {
+      "Uuid": "3ff60018-28fb-48f8-8155-d86f17f207b4",
+      "Name": "生活设施",
+      "DisplayName": "生活设施",
+      "Major": "L",
+      "Description": "生活设施"
+    },
+    {
+      "Uuid": "ba4d2bfc-278e-408a-a37b-79f21117743d",
+      "Name": "土方基坑",
+      "DisplayName": "土方基坑",
+      "Major": "L",
+      "Description": "土方基坑"
+    },
+    {
+      "Uuid": "a852e866-ee03-48c7-a74f-a29a1ab7a07f",
+      "Name": "消防临电",
+      "DisplayName": "消防临电",
+      "Major": "L",
+      "Description": "消防临电"
+    },
+    {
+      "Uuid": "9B288AC6-D809-4057-B554-148FFE485C29",
+      "Name": "展示体验",
+      "DisplayName": "展示体验",
+      "Major": "L",
+      "Description": "展示体验"
+    },
+    {
+      "Uuid": "215b4cab-600e-4f91-8e1b-36a8804f0146",
+      "Name": "其他构件",
+      "DisplayName": "其他构件",
+      "Major": "L",
+      "Description": "其他构件"
+    }
+  ],
+  "MajorInfos": [
+    {
+      "Name": "Layout",
+      "DisplayName": "场布",
+      "Code": "L"
+    }
+  ]
+}

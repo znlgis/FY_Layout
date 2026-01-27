@@ -1,0 +1,121 @@
+{
+  "Uuid": "B9BBEF28-612B-1BD8-584B-A9BFE6EA8902",
+  "Major": "A",
+  "Name": "土方回填",
+  "DisplayName": null,
+  "Description": null,
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "场布施工设计.土方基坑",
+  "SubCategoryName": "土方回填",
+  "Commands": "Earthwork|Earthwork:任意绘制;EarthworkRec:矩形绘制;EarthworkChange:转换多段线;",
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "PropertyDefs2": [
+    {
+      "Name": "Material",
+      "Souce": "Host",
+      "DisplayName": "材质",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1001,
+      "DataType": "Material",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Outline",
+      "Souce": "Host",
+      "DisplayName": "轮廓",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1002,
+      "DataType": "Curve2d",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "ElevationBottom",
+      "Souce": "Host",
+      "DisplayName": "分段底标高",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1003,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": -4000,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "ElevationTop",
+      "Souce": "Host",
+      "DisplayName": "分段顶标高",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1004,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": 0,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    }
+  ],
+  "Shape2dProviders": [
+    {
+      "Name": "土方回填",
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdLayoutProvider.dll",
+      "DllProviderUuid": "96DEEECF-AA62-E66B-AD3F-2B6A0C95209B"
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Name": "土方回填",
+      "Type": "Solid3d",
+      "SourceType": "System",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdLayoutProvider.dll",
+      "DllProviderUuid": null
+    }
+  ]
+}

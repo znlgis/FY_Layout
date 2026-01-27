@@ -1,0 +1,294 @@
+{
+  "IsDebug": true,
+  "ProjectionConfig": {
+    "CoverConfig": {
+      "MaterialPriority": "OTHER,玻璃,面层,透明体,线脚,多孔材料(虚线),多孔材料,空心砖(虚线),空心砖,加气混凝土(虚线),加气混凝土,砌体墙(虚线),砌体墙,混凝土(虚线),构造柱钢砼,混凝土外墙,混凝土窗台,混凝土,钢筋混凝土,ANSI32",
+      "CategoryPriority": "OTHER,结构柱,结构墙，结构梁",
+      "MajorCodePriority": "OTHER,A,S,PC,W,H,E"
+    },
+    "MergeConditionEnum": {
+      "1": "Material",
+      "2": "MajorCode",
+      "3": "Category"
+    },
+    "ViewConfigs": {
+      "剖面图": {
+        "MergeConfigs": [
+          {
+            "DrawingMajorCodes": [
+              "A",
+              "S",
+              "EMP"
+            ],
+            "HatchScales": [
+              0,
+              20,
+              50,
+              100,
+              150,
+              200,
+              500,
+              1000
+            ],
+            "MegerConditions": [
+              1
+            ]
+          }
+        ]
+      },
+      "平面详图": {
+        "MergeConfigs": [
+          {
+            "DrawingMajorCodes": [
+              "A"
+            ],
+            "HatchScales": [
+              0,
+              100,
+              150,
+              200,
+              500,
+              1000
+            ],
+            "MegerConditions": [
+              1,
+              2
+            ]
+          },
+          {
+            "DrawingMajorCodes": [
+              "A"
+            ],
+            "HatchScales": [
+              20,
+              50
+            ],
+            "MegerConditions": [
+              1
+            ]
+          }
+        ]
+      },
+      "平面图": {
+        "MergeConfigs": [
+          {
+            "DrawingMajorCodes": [
+              "A",
+              "EMP"
+            ],
+            "HatchScales": [
+              0,
+              100,
+              150,
+              200,
+              500,
+              1000
+            ],
+            "MegerConditions": [
+              1,
+              2
+            ]
+          },
+          {
+            "DrawingMajorCodes": [
+              "A"
+            ],
+            "HatchScales": [
+              20,
+              50
+            ],
+            "MegerConditions": [
+              1
+            ]
+          }
+        ]
+      },
+      "立面图": {
+        "MergeConfigs": [
+          {
+            "DrawingMajorCodes": [
+              "A"
+            ],
+            "HatchScales": [
+              0,
+              20,
+              50,
+              100,
+              150,
+              200,
+              500,
+              1000
+            ],
+            "MegerConditions": [
+              1
+            ]
+          }
+        ]
+      },
+      "缩略斜视图": {
+        "MergeConfigs": [
+          {
+            "DrawingMajorCodes": [
+              "A"
+            ],
+            "HatchScales": [
+              0,
+              100,
+              150,
+              200,
+              500,
+              1000
+            ],
+            "MegerConditions": [
+              1,
+              2
+            ]
+          },
+          {
+            "DrawingMajorCodes": [
+              "A"
+            ],
+            "HatchScales": [
+              20,
+              50
+            ],
+            "MegerConditions": [
+              1
+            ]
+          }
+        ]
+      },
+      "立面图（深度控制）": {
+        "MergeConfigs": [
+          {
+            "DrawingMajorCodes": [
+              "A"
+            ],
+            "HatchScales": [
+              0,
+              100,
+              150,
+              200,
+              500,
+              1000
+            ],
+            "MegerConditions": [
+              1,
+              2
+            ]
+          },
+          {
+            "DrawingMajorCodes": [
+              "A"
+            ],
+            "HatchScales": [
+              20,
+              50
+            ],
+            "MegerConditions": [
+              1
+            ]
+          }
+        ]
+      }
+    },
+    "PrecisionControl": {
+      "DefaultPrecision": 10000, 
+      "IsFixedPrecision": true, 
+      "FixedPrecisionValue": 10000 
+    }
+  },
+  "CollisionConfig": {
+    "CollisionCommonRulerConfigs": [
+      {
+        "GroupName": "土建|结构",
+        "Name": "窗与结构",
+        "ColObj1": {
+          "ShareKey": "",
+          "Category": "结构墙,结构梁,结构柱,结构构造柱",
+          "MajorName": "Any",
+          "ElementName": "Any",
+          "Material": "Any",
+          "UseType": "Any",
+          "GeometryName": "Any"
+        },
+        "ColObj2": {
+          "ShareKey": "",
+          "Category": "窗",
+          "MajorName": "Any",
+          "ElementName": "Any",
+          "Material": "Any",
+          "UseType": "Any",
+          "GeometryName": "窗户玻璃"
+        }
+      },
+      {
+        "GroupName": "土建|结构",
+        "Name": "门与结构",
+        "ColObj1": {
+          "ShareKey": "",
+          "Category": "结构墙,结构梁,结构柱,结构构造柱",
+          "MajorName": "Any",
+          "ElementName": "Any",
+          "Material": "Any",
+          "UseType": "Any",
+          "GeometryName": "Any"
+        },
+        "ColObj2": {
+          "ShareKey": "",
+          "Category": "门",
+          "MajorName": "Any",
+          "ElementName": "Any",
+          "Material": "Any",
+          "UseType": "Any",
+          "GeometryName": "门板"
+        }
+      },
+      {
+        "GroupName": "地铁站相关元素",
+        "Name": "地铁站与建筑物",
+        "ColObj1": {
+          "ShareKey": "",
+          "Category": "楼板,墙,简易拉伸体,风亭,通道,出入口",
+          "MajorName": "Any",
+          "ElementName": "Any",
+          "Material": "Any",
+          "UseType": "Any",
+          "GeometryName": "Any"
+        },
+        "ColObj2": {
+          "ShareKey": "",
+          "Category": "建筑物",
+          "MajorName": "Any",
+          "ElementName": "Any",
+          "Material": "Any",
+          "UseType": "Any",
+          "GeometryName": "Any"
+        }
+      },
+      {
+        "GroupName": "地铁站相关元素",
+        "Name": "地铁站与管子",
+        "ColObj1": {
+          "ShareKey": "",
+          "Category": "楼板,墙,简易拉伸体,风亭,通道,出入口",
+          "MajorName": "Any",
+          "ElementName": "Any",
+          "Material": "Any",
+          "UseType": "Any",
+          "GeometryName": "Any"
+        },
+        "ColObj2": {
+          "ShareKey": "",
+          "Category": "管子",
+          "MajorName": "Any",
+          "ElementName": "Any",
+          "Material": "Any",
+          "UseType": "Any",
+          "GeometryName": "Any"
+        }
+      }
+    ]
+  },
+  "ComponentLoadCfg": "建筑,结构,给排水,暖通,电气"
+}

@@ -1,0 +1,45 @@
+{
+  "Uuid": "C3A523EA-3702-A98C-7A6B-8DBEA2D2F4D4",
+  "Major": "A",
+  "Name": "插入U型板房",
+  "DisplayName": null,
+  "Description": null,
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "场布施工设计.建构筑物",
+  "FilePath": "E:\\WorkCodes\\LightCAD1Fork\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\BuiltinComDefs\\QdLayout.lclib",
+  "SubCategoryName": "板房楼栋",
+  "Commands": "PlateUBuild",
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "PropertyDefs2": [],
+  "Shape2dProviders": [
+    {
+      "Name": "板房",
+      "Type": "Shape2d",
+      "SourceType": "System",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdLayoutProvider.dll",
+      "DllProviderUuid": null
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Name": "板房",
+      "Type": "Solid3d",
+      "SourceType": "System",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdLayoutProvider.dll",
+      "DllProviderUuid": null
+    }
+  ]
+}

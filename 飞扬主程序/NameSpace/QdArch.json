@@ -1,0 +1,308 @@
+﻿{
+  "Name": "建筑施工图设计",
+  "DisplayName": "建筑施工图设计",
+  "Description": "建筑设计行业的类型配置文件",
+  "Categories": [
+    {
+      "Uuid": "77426303-8C46-4DF5-B6F4-60D3E72363A4",
+      "Name": "墙",
+      "DisplayName": "墙",
+      "Major": "A",
+      "Description": "墙"
+    },
+    {
+      "Uuid": "76DAD196-7875-40A3-8E4C-9D4493CB255E",
+      "Name": "墙洞",
+      "DisplayName": "墙洞",
+      "Major": "A",
+      "Description": "墙上开洞"
+    },
+    {
+      "Uuid": "85D60315-BAB0-4A90-B8AF-6E66972699C8",
+      "Name": "楼板洞口",
+      "DisplayName": "楼板洞口",
+      "Major": "A",
+      "Description": "楼板洞口"
+    },
+    {
+      "Uuid": "1CC1B0AF-3129-4DAE-90FB-E30BE2A46DDA",
+      "Name": "SU模型",
+      "DisplayName": "SU模型",
+      "Major": "A",
+      "Description": "SU模型"
+    },
+    {
+      "Uuid": "42999797-6026-4F27-8171-C6CA079D28BB",
+      "Name": "表皮",
+      "DisplayName": "表皮",
+      "Major": "A",
+      "Description": "表皮"
+    },
+    {
+      "Uuid": "2B39F6C6-30E2-58B0-3442-91B389FC2DF6",
+      "Name": "分缝",
+      "DisplayName": "分缝",
+      "Major": "A",
+      "Description": "分缝"
+    },
+    {
+      "Uuid": "DD06C383-BC92-4D93-9C3E-10553740BBD4",
+      "Name": "RhinoObject",
+      "DisplayName": "RhinoObject",
+      "Major": "A",
+      "Description": "RhinoObject"
+    },
+    {
+      "Uuid": "99C07E8B-2BDF-49CB-8ADA-86267AE6CE14",
+      "Name": "门",
+      "DisplayName": "门",
+      "Major": "A",
+      "Description": "门"
+    },
+    {
+      "Uuid": "1FCF3F16-28EF-4CBD-9EDA-5E88F59F1327",
+      "Name": "窗",
+      "DisplayName": "窗",
+      "Major": "A",
+      "Description": "窗"
+    },
+    {
+      "Uuid": "4257DFB4-C621-4789-8AFE-2DAD4DCDD527",
+      "Name": "转角窗",
+      "DisplayName": "转角窗",
+      "Major": "A",
+      "Description": "转角窗"
+    },
+    {
+      "Uuid": "B06CCCA1-5A7A-B55E-008B-00F8CE826E37",
+      "Name": "简易拉伸体",
+      "DisplayName": "拉伸体",
+      "Major": "A",
+      "Description": "拉伸体"
+    },
+    {
+      "Uuid": "B16604E5-28A2-47F4-8F17-481D2FF46BEA",
+      "Name": "带型窗",
+      "DisplayName": "带型窗",
+      "Major": "A",
+      "Description": "带型窗"
+    },
+    {
+      "Uuid": "D251F6FC-BBE0-4B36-ACD3-BC17A48EFF6B",
+      "Name": "门连窗",
+      "DisplayName": "门连窗",
+      "Major": "A",
+      "Description": "门连窗"
+    },
+    {
+      "Uuid": "A4EA3ED4-6319-43C9-B58E-E4A0F33A2A87",
+      "Name": "楼板",
+      "DisplayName": "楼板",
+      "Major": "A",
+      "Description": "楼板"
+    },
+    {
+      "Uuid": "65DA8DAD-E3A6-4699-BDED-F258CA920774",
+      "Name": "线脚路径",
+      "DisplayName": "线脚路径",
+      "Major": "A",
+      "Description": "线脚路径"
+    },
+    {
+      "Uuid": "F2ECD509-9FEC-419F-9EAB-DDB78EBF8578",
+      "Name": "拉伸体",
+      "DisplayName": "拉伸体",
+      "Major": "A",
+      "Description": "拉伸体"
+    },
+    {
+      "Uuid": "F2ECA609-9FEC-419F-1EAB-DDB78ECF8578",
+      "Name": "栏杆",
+      "DisplayName": "栏杆",
+      "Major": "A",
+      "Description": "栏杆"
+    },
+    {
+      "Uuid": "5B5B2941-1A12-40AD-A656-BE3F6A5905F8",
+      "Name": "坡道",
+      "DisplayName": "坡道",
+      "Major": "A",
+      "Description": "坡道"
+    },
+    {
+      "Uuid": "AEF5082D-5148-43DB-AB4A-B54CD8241FD9",
+      "Name": "三维文字",
+      "DisplayName": "三维文字",
+      "Major": "A",
+      "Description": "三维文字"
+    },
+    {
+      "Uuid": "562C1CB6-A6D3-49EE-A54A-AA90BBC6B6AE",
+      "Name": "屋顶",
+      "DisplayName": "屋顶",
+      "Major": "A",
+      "Description": "屋顶"
+    },
+    {
+      "Uuid": "BD0365C1-6493-49D1-9F00-B7F3EA8B9333",
+      "Name": "楼梯",
+      "DisplayName": "楼梯",
+      "Major": "A",
+      "Description": "楼梯"
+    },
+    {
+      "Uuid": "1E67F98F-BFBD-D47F-3615-F9F42EE3F2B2",
+      "Name": "旋转楼梯",
+      "DisplayName": "旋转楼梯",
+      "Major": "A",
+      "Description": "旋转楼梯"
+    },
+    {
+      "Uuid": "F28FB258-939C-AAC3-9580-3E190A3CA1D4",
+      "Name": "梯段",
+      "DisplayName": "梯段",
+      "Major": "A",
+      "Description": "梯段"
+    },
+    {
+      "Uuid": "3E7BA68C-C4DB-4930-B4B9-C29093837600",
+      "Name": "平台",
+      "DisplayName": "平台",
+      "Major": "A",
+      "Description": "平台"
+    },
+    {
+      "Uuid": "14E634E4-9EEE-4042-BF2F-B906C06B4950",
+      "Name": "自由板",
+      "DisplayName": "自由板",
+      "Major": "A",
+      "Description": "自由板"
+    },
+    {
+      "Uuid": "1B4FF612-3E37-17F5-BFA7-6BAEFE1022F5",
+      "Name": "幕墙",
+      "DisplayName": "幕墙",
+      "Major": "A",
+      "Description": "幕墙"
+    },
+    {
+      "Uuid": "32EDC2F5-67E5-0522-D32E-988B73E0725D",
+      "Name": "梁",
+      "DisplayName": "梁",
+      "Major": "S",
+      "Description": "梁"
+    },
+    {
+      "Uuid": "9866BC67-9039-0189-F803-663366C0FDC8",
+      "Name": "柱",
+      "DisplayName": "柱",
+      "Major": "S",
+      "Description": "柱"
+    },
+    {
+      "Uuid": "BFB918E4-9801-498F-A1A2-B2AA74C0D845",
+      "Name": "房间分割线",
+      "DisplayName": "房间分割线",
+      "Major": "A",
+      "Description": "房间分割线"
+    },
+    {
+      "Uuid": "6DC0FADE-C414-4637-8BCE-4CBB8F53CDB8",
+      "Name": "房间体量",
+      "DisplayName": "房间体量",
+      "Major": "A",
+      "Description": "房间体量"
+    },
+    {
+      "Uuid": "C753270A-AA4B-411F-AC01-21E957055E12",
+      "Name": "门框",
+      "DisplayName": "门框",
+      "Major": "A",
+      "Description": "门框"
+    },
+    {
+      "Uuid": "860F8691-2CE7-4054-A550-820252158545",
+      "Name": "门扇",
+      "DisplayName": "门扇",
+      "Major": "A",
+      "Description": "门扇"
+    },
+    {
+      "Uuid": "4D8D8680-983E-4427-B475-195807FEE05E",
+      "Name": "门分割条",
+      "DisplayName": "门分割条",
+      "Major": "A",
+      "Description": "门分割条"
+    },
+    {
+      "Uuid": "11B8FCB6-5CBC-4CCE-947A-7526A35C98A4",
+      "Name": "窗框",
+      "DisplayName": "窗框",
+      "Major": "A",
+      "Description": "窗框"
+    },
+    {
+      "Uuid": "419DF42F-2121-440A-B209-DFAB7AB5CB49",
+      "Name": "窗扇",
+      "DisplayName": "窗扇",
+      "Major": "A",
+      "Description": "窗扇"
+    },
+    {
+      "Uuid": "D03A3F05-B51A-4A78-92C8-73A97B8CB65C",
+      "Name": "窗分割条",
+      "DisplayName": "窗分割条",
+      "Major": "A",
+      "Description": "窗分割条"
+    },
+    {
+      "Uuid": "DB1BBAAE-E0AE-4AC5-AF86-F36791497827",
+      "Name": "门窗样式条",
+      "DisplayName": "门窗样式条",
+      "Major": "A",
+      "Description": "门窗样式条"
+    },
+    {
+      "Uuid": "B52131C0-2061-4A00-BAFF-1FF723DEC8E8",
+      "Name": "转折处分割条",
+      "DisplayName": "转折处分割条",
+      "Major": "A",
+      "Description": "转折处分割条"
+    },
+    {
+      "Uuid": "BA114667-D421-E901-011F-EC8DAFB758F3",
+      "Name": "台阶",
+      "DisplayName": "单线台阶",
+      "Major": "A",
+      "Description": "单线台阶"
+    },
+    {
+      "Uuid": "69A633B1-AF62-F079-290A-56C084E05ABA",
+      "Name": "阻车桩",
+      "DisplayName": "阻车桩",
+      "Major": "A",
+      "Description": "阻车桩"
+    },
+    {
+      "Uuid": "124A8C82-5175-4929-BD7C-4375550646BF",
+      "Name": "车位布置",
+      "DisplayName": "车位布置",
+      "Major": "A",
+      "Description": "车位布置"
+    },
+    {
+      "Uuid": "F1A4D7B2-6C3E-4B9A-8E5F-2D7A4C1B6E9F",
+      "Name": "净高分析",
+      "DisplayName": "净高分析",
+      "Major": "A",
+      "Description": "净高分析"
+    }
+  ],
+  "MajorInfos": [
+    {
+      "Name": "Arch",
+      "DisplayName": "建筑",
+      "Code": "A"
+    }
+  ]
+}

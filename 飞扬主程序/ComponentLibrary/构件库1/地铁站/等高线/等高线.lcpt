@@ -1,0 +1,83 @@
+{
+  "Uuid": "AE110610-B1BA-4CD2-8EBA-230E6AAEDA63",
+  "Major": "M",
+  "Name": "等高线",
+  "DisplayName": null,
+  "Description": null,
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "地铁站设计.等高线",
+  "FilePath": "E:\\WorkCodes\\LightCAD1Fork\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\BuiltinComDefs\\QdMetroStation.lclib",
+  "SubCategoryName": "等高线",
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "PropertyDefs2": [
+    {
+      "Name": "Material",
+      "Souce": "Host",
+      "DisplayName": "材料",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1001,
+      "DataType": "Material",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "GeometryBound",
+      "Souce": "Host",
+      "DisplayName": "GeometryBound",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1002,
+      "DataType": "String",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    }
+  ],
+  "Shape2dProviders": [
+    {
+      "Name": "等高线",
+      "Type": "Shape2d",
+      "SourceType": "System",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdMetroStationProvider.dll",
+      "DllProviderUuid": null
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Name": "等高线",
+      "Type": "Solid3d",
+      "SourceType": "System",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdMetroStationProvider.dll",
+      "DllProviderUuid": null
+    }
+  ]
+}

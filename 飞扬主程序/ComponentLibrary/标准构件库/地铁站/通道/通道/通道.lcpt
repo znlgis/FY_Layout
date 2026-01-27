@@ -1,0 +1,143 @@
+{
+  "Uuid": "13793C1A-4183-4CE6-A9D8-C1784FBAE153",
+  "Major": "M",
+  "Name": "通道",
+  "DisplayName": null,
+  "Description": null,
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "地铁站设计.通道",
+  "FilePath": "E:\\WorkCodes\\LightCAD1Fork\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\BuiltinComDefs\\QdMetroStation.lclib",
+  "SubCategoryName": "通道",
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "PropertyDefs2": [
+    {
+      "Name": "Material",
+      "Souce": "Host",
+      "DisplayName": "材料",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1001,
+      "DataType": "Material",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Width",
+      "Souce": "Host",
+      "DisplayName": "宽度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1002,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Height",
+      "Souce": "Host",
+      "DisplayName": "高度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1003,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Thickness",
+      "Souce": "Host",
+      "DisplayName": "板厚",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1004,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Bottom",
+      "Souce": "Host",
+      "DisplayName": "底高度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1005,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": 0,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    }
+  ],
+  "Shape2dProviders": [
+    {
+      "Name": "通道",
+      "Type": "Shape2d",
+      "SourceType": "System",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdMetroStationProvider.dll",
+      "DllProviderUuid": null
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Name": "通道",
+      "Type": "Solid3d",
+      "SourceType": "System",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdMetroStationProvider.dll",
+      "DllProviderUuid": null
+    }
+  ],
+  "DefaultMaterials3d": {
+    "通道": "d8d1dc26-5ed5-47d9-abea-09b43420864c"
+  }
+}

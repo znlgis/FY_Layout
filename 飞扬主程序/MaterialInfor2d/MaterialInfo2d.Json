@@ -1,0 +1,612 @@
+{
+  "MaterialInfo2d": [
+    {
+      "Uuid": "bf54926b-971e-4a3d-8647-dc150821a0bb",
+      "MaterialName": "加气混凝土",
+      "ScaleHatchInfos": [
+        {
+          "Scale": "1:10",
+          "Hatch": "加气混凝土",
+          "Layer": "0"
+        },
+        {
+          "Scale": "1:20",
+          "Hatch": "加气混凝土",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:50",
+          "Hatch": "加气混凝土",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:0",
+          "Hatch": "加气混凝土",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:100",
+          "Hatch": null,
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:150",
+          "Hatch": null,
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:200",
+          "Hatch": null,
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:500",
+          "Hatch": null,
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:1000",
+          "Hatch": null,
+          "Layer": "AE-WALL-HACH"
+        }
+      ]
+    },
+    {
+      "Uuid": "a75a916a-e6fd-45e6-9a55-3bb57309d5ee",
+      "MaterialName": "砌体墙",
+      "ScaleHatchInfos": [
+        {
+          "Scale": "1:10",
+          "Hatch": "普通砖",
+          "Layer": "0"
+        },
+        {
+          "Scale": "1:20",
+          "Hatch": "普通砖",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:50",
+          "Hatch": "普通砖",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:0",
+          "Hatch": "普通砖",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:100",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:150",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:200",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:500",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:1000",
+          "Hatch": null,
+          "Layer": null
+        }
+      ]
+    },
+    {
+      "Uuid": "c04a7a37-372d-4a92-b023-d8a40ecd819d",
+      "MaterialName": "ANSI32",
+      "ScaleHatchInfos": [
+        {
+          "Scale": "1:0",
+          "Hatch": "钢筋混凝土",
+          "Layer": "AE-STRU-HACH"
+        },
+        {
+          "Scale": "1:20",
+          "Hatch": "钢筋混凝土",
+          "Layer": "AE-STRU-HACH"
+        },
+        {
+          "Scale": "1:50",
+          "Hatch": "钢筋混凝土",
+          "Layer": "AE-STRU-HACH"
+        },
+        {
+          "Scale": "1:100",
+          "Hatch": "QD_ANSI32",
+          "Layer": "AE-STRU-HACH"
+        },
+        {
+          "Scale": "1:150",
+          "Hatch": "QD_ANSI32",
+          "Layer": "AE-STRU-HACH"
+        },
+        {
+          "Scale": "1:200",
+          "Hatch": "QD_ANSI32",
+          "Layer": "AE-STRU-HACH"
+        },
+        {
+          "Scale": "1:500",
+          "Hatch": "QD_ANSI32",
+          "Layer": "AE-STRU-HACH"
+        },
+        {
+          "Scale": "1:1000",
+          "Hatch": "QD_ANSI32",
+          "Layer": "AE-STRU-HACH"
+        }
+      ]
+    },
+    {
+      "Uuid": "8222f3fd-2d45-495e-9f75-cca5d83873f9",
+      "MaterialName": "钢筋混凝土",
+      "ScaleHatchInfos": [
+        {
+          "Scale": "1:0",
+          "Hatch": "钢筋混凝土",
+          "Layer": "AE-STRU-HACH"
+        },
+        {
+          "Scale": "1:20",
+          "Hatch": "钢筋混凝土",
+          "Layer": "AE-STRU-HACH"
+        },
+        {
+          "Scale": "1:50",
+          "Hatch": "钢筋混凝土",
+          "Layer": "AE-STRU-HACH"
+        },
+        {
+          "Scale": "1:100",
+          "Hatch": "SOLID",
+          "Layer": "AE-STRU-HACH"
+        },
+        {
+          "Scale": "1:150",
+          "Hatch": "QD_SOLID",
+          "Layer": "AE-STRU-HACH"
+        },
+        {
+          "Scale": "1:200",
+          "Hatch": "QD_SOLID",
+          "Layer": "AE-STRU-HACH"
+        },
+        {
+          "Scale": "1:500",
+          "Hatch": "QD_SOLID",
+          "Layer": "AE-STRU-HACH"
+        },
+        {
+          "Scale": "1:1000",
+          "Hatch": "QD_SOLID",
+          "Layer": "AE-STRU-HACH"
+        }
+      ]
+    },
+    {
+      "Uuid": "60e01f7f-1f91-4d16-b3a3-de99270694a0",
+      "MaterialName": "任意",
+      "ScaleHatchInfos": [
+        {
+          "Scale": "1:0",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:20",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:50",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:100",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:150",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:200",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:500",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:1000",
+          "Hatch": null,
+          "Layer": null
+        }
+      ]
+    },
+    {
+      "Uuid": "a732b5f2-0b7c-4333-aee8-552a63fdded2",
+      "MaterialName": "混凝土",
+      "ScaleHatchInfos": [
+        {
+          "Scale": "1:0",
+          "Hatch": "混凝土",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:20",
+          "Hatch": "混凝土",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:50",
+          "Hatch": "混凝土",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:100",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:150",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:200",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:500",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:1000",
+          "Hatch": null,
+          "Layer": null
+        }
+      ]
+    },
+    {
+      "Uuid": "07d477c8-cf2a-4239-9c43-18c445c4d90c",
+      "MaterialName": "空心砖",
+      "ScaleHatchInfos": [
+        {
+          "Scale": "1:0",
+          "Hatch": "空心砖",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:20",
+          "Hatch": "空心砖",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:50",
+          "Hatch": "空心砖",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:100",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:150",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:200",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:500",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:1000",
+          "Hatch": null,
+          "Layer": null
+        }
+      ]
+    },
+    {
+      "Uuid": "d537d368-a2cc-4649-b7e0-4d53a7d5efcb",
+      "MaterialName": "多孔材料",
+      "ScaleHatchInfos": [
+        {
+          "Scale": "1:0",
+          "Hatch": "多孔材料",
+          "Layer": ""
+        },
+        {
+          "Scale": "1:20",
+          "Hatch": "多孔材料",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:50",
+          "Hatch": "多孔材料",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:100",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:150",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:200",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:500",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:1000",
+          "Hatch": null,
+          "Layer": null
+        }
+      ]
+    },
+    {
+      "Uuid": "434e8941-cc8c-42a2-bf8d-7e643003e80d",
+      "MaterialName": "六边形",
+      "ScaleHatchInfos": [
+        {
+          "Scale": "1:0",
+          "Hatch": "天然石材",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:20",
+          "Hatch": "天然石材",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:50",
+          "Hatch": "天然石材",
+          "Layer": "AE-WALL-HACH"
+        },
+        {
+          "Scale": "1:100",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:150",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:200",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:500",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:1000",
+          "Hatch": null,
+          "Layer": null
+        }
+      ]
+    },
+    {
+      "Uuid": "7eb119fd-9422-4239-8973-1f8d388f0d84",
+      "MaterialName": "线脚",
+      "ScaleHatchInfos": [
+        {
+          "Scale": "1:0",
+          "Hatch": "",
+          "Layer": ""
+        },
+        {
+          "Scale": "1:20",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:50",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:100",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:150",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:200",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:500",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:1000",
+          "Hatch": null,
+          "Layer": null
+        }
+      ]
+    },
+    {
+      "Uuid": "ae2a78db-b5a4-43b7-9def-00e70496a85f",
+      "MaterialName": "透明体",
+      "ScaleHatchInfos": [
+        {
+          "Scale": "1:0",
+          "Hatch": "",
+          "Layer": ""
+        },
+        {
+          "Scale": "1:20",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:50",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:100",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:150",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:200",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:500",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:1000",
+          "Hatch": null,
+          "Layer": null
+        }
+      ]
+    },
+    {
+      "Uuid": "90357492-cc29-4772-ade5-d437064ae186",
+      "MaterialName": "面层",
+      "ScaleHatchInfos": [
+        {
+          "Scale": "1:0",
+          "Hatch": "",
+          "Layer": ""
+        },
+        {
+          "Scale": "1:20",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:50",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:100",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:150",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:200",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:500",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:1000",
+          "Hatch": null,
+          "Layer": null
+        }
+      ]
+    },
+    {
+      "Uuid": "8e08ec0c-32f4-41ae-888c-96614f2843ce",
+      "MaterialName": "玻璃",
+      "ScaleHatchInfos": [
+        {
+          "Scale": "1:0",
+          "Hatch": "",
+          "Layer": ""
+        },
+        {
+          "Scale": "1:20",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:50",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:100",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:150",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:200",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:500",
+          "Hatch": null,
+          "Layer": null
+        },
+        {
+          "Scale": "1:1000",
+          "Hatch": null,
+          "Layer": null
+        }
+      ]
+    }
+  ]
+}

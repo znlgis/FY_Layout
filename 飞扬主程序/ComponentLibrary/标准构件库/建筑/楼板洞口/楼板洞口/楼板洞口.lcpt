@@ -1,0 +1,51 @@
+{
+  "Uuid": "C692EEB5-9950-4128-9A12-F3F829801A94",
+  "Major": "A",
+  "Name": "楼板洞口",
+  "DisplayName": "楼板洞口",
+  "Description": "楼板洞口",
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "建筑施工图设计.楼板洞口",
+  "FilePath": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinComDefs\\QdArch.lclib",
+  "Thumbnail": null,
+  "SubCategoryName": "楼板洞口",
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "Commands": null,
+  "Features": null,
+  "PropertyDefs2": [],
+  "Shape2dProviders": [
+    {
+      "Name": "楼板开洞",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "System",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": "",
+      "DllProviderUuid": null,
+      "Thumbnail": null,
+      "Relative3dName": null
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Name": "楼板开洞",
+      "IsDefault": false,
+      "Type": "Solid3d",
+      "SourceType": "System",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": "",
+      "DllProviderUuid": null,
+      "Thumbnail": null,
+      "Relative2dName": null
+    }
+  ]
+}

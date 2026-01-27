@@ -1,0 +1,585 @@
+{
+  "ConfigureDiagramLayer": [
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "2"
+      ],
+      "ComponentTypes": [
+        "门",
+        "窗",
+        "转角窗",
+        "带型窗",
+        "门连窗",
+        "门框",
+        "门分割条",
+        "窗框",
+        "窗分割条"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "ReadLine",
+      "LayerName": "AE-ELEV-4",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "2"
+      ],
+      "ComponentTypes": [
+        "墙",
+        "楼板洞口",
+        "SU模型",
+        "表皮",
+        "分缝",
+        "RhinoObject",
+        "转角窗",
+        "简易拉伸体",
+        "门连窗",
+        "楼板",
+        "线脚路径",
+        "拉伸体",
+        "坡道",
+        "屋顶",
+        "楼梯",
+        "旋转楼梯",
+        "梯段",
+        "平台",
+        "自由板",
+        "幕墙",
+        "房间分割线",
+        "转折处分割条",
+        "台阶",
+        "阻车桩",
+        "安全防护",
+        "材料堆场",
+        "机械设备",
+        "建构筑物",
+        "绿色文明",
+        "生活设施",
+        "土方基坑",
+        "消防临电",
+        "展示体验",
+        "其他构件"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "ReadLine",
+      "LayerName": "AE-ELEV-3",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "2"
+      ],
+      "ComponentTypes": [
+        "门扇",
+        "窗扇"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "ReadLine",
+      "LayerName": "AE-ELEV-4",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "0"
+      ],
+      "ComponentTypes": [
+        "窗",
+        "转角窗",
+        "带型窗",
+        "门连窗",
+        "窗扇",
+        "窗分割条"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "ReadLine",
+      "LayerName": "AE-WIND",
+      "UseType": null
+    },
+    {
+      "Major": "S",
+      "ViewTypes": [
+        "0"
+      ],
+      "ComponentTypes": [
+        "梁"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "CrossSection",
+      "LayerName": "S_BEAM",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "0"
+      ],
+      "ComponentTypes": [
+        "墙",
+        "表皮",
+        "分缝",
+        "RhinoObject",
+        "简易拉伸体",
+        "楼板",
+        "线脚路径",
+        "拉伸体",
+        "坡道",
+        "屋顶",
+        "自由板",
+        "幕墙"
+      ],
+      "MaterialIds": [
+        "7eb119fd-9422-4239-8973-1f8d388f0d84",
+        "ae2a78db-b5a4-43b7-9def-00e70496a85f",
+        "8e08ec0c-32f4-41ae-888c-96614f2843ce"
+      ],
+      "ProjectionType": "CrossSection",
+      "LayerName": "AE-FNSH",
+      "UseType": null
+    },
+    {
+      "Major": "S",
+      "ViewTypes": [
+        "0"
+      ],
+      "ComponentTypes": [
+        "结构墙"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "CrossSection",
+      "LayerName": "S_WALL",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "0"
+      ],
+      "ComponentTypes": [
+        "窗",
+        "转角窗",
+        "带型窗"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "CrossSection",
+      "LayerName": "AE-WIND",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "0"
+      ],
+      "ComponentTypes": [
+        "墙",
+        "SU模型",
+        "表皮",
+        "分缝",
+        "RhinoObject",
+        "简易拉伸体",
+        "线脚路径",
+        "拉伸体",
+        "坡道",
+        "屋顶",
+        "自由板"
+      ],
+      "MaterialIds": [
+        "bf54926b-971e-4a3d-8647-dc150821a0bb",
+        "a75a916a-e6fd-45e6-9a55-3bb57309d5ee",
+        "c04a7a37-372d-4a92-b023-d8a40ecd819d",
+        "8222f3fd-2d45-495e-9f75-cca5d83873f9",
+        "a732b5f2-0b7c-4333-aee8-552a63fdded2",
+        "07d477c8-cf2a-4239-9c43-18c445c4d90c",
+        "d537d368-a2cc-4649-b7e0-4d53a7d5efcb",
+        "434e8941-cc8c-42a2-bf8d-7e643003e80d"
+      ],
+      "ProjectionType": "CrossSection",
+      "LayerName": "AE-WALL",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "0"
+      ],
+      "ComponentTypes": [
+        "门"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "CrossSection",
+      "LayerName": "AE-DOOR-INSD",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "0"
+      ],
+      "ComponentTypes": [
+        "墙",
+        "SU模型",
+        "表皮",
+        "RhinoObject",
+        "简易拉伸体",
+        "线脚路径",
+        "拉伸体",
+        "坡道"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "ReadLine",
+      "LayerName": "AE-FLOR",
+      "UseType": null
+    },
+    {
+      "Major": "S",
+      "ViewTypes": [
+        "0"
+      ],
+      "ComponentTypes": [
+        "柱"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "CrossSection",
+      "LayerName": "S_COLU",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "1"
+      ],
+      "ComponentTypes": [
+        "窗",
+        "转角窗",
+        "带型窗",
+        "窗框",
+        "窗扇",
+        "窗分割条"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "CrossSection",
+      "LayerName": "AE-WIND",
+      "UseType": null
+    },
+    {
+      "Major": "S",
+      "ViewTypes": [
+        "1"
+      ],
+      "ComponentTypes": [
+        "梁"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "CrossSection",
+      "LayerName": "S_BEAM",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "1"
+      ],
+      "ComponentTypes": [
+        "墙",
+        "墙洞",
+        "楼板洞口",
+        "SU模型",
+        "表皮",
+        "分缝",
+        "RhinoObject",
+        "门",
+        "窗",
+        "转角窗",
+        "简易拉伸体",
+        "带型窗",
+        "门连窗",
+        "楼板",
+        "线脚路径",
+        "拉伸体",
+        "坡道",
+        "屋顶",
+        "楼梯",
+        "旋转楼梯",
+        "梯段",
+        "平台",
+        "自由板",
+        "幕墙",
+        "房间分割线",
+        "门框",
+        "门扇",
+        "门分割条",
+        "窗框",
+        "窗扇",
+        "窗分割条",
+        "转折处分割条",
+        "台阶"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "ReadLine",
+      "LayerName": "AE-FLOR",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "1"
+      ],
+      "ComponentTypes": [
+        "墙",
+        "SU模型",
+        "表皮",
+        "RhinoObject",
+        "简易拉伸体",
+        "楼板",
+        "线脚路径",
+        "拉伸体",
+        "坡道",
+        "屋顶",
+        "楼梯",
+        "旋转楼梯",
+        "梯段",
+        "平台",
+        "自由板"
+      ],
+      "MaterialIds": [
+        "7eb119fd-9422-4239-8973-1f8d388f0d84",
+        "ae2a78db-b5a4-43b7-9def-00e70496a85f"
+      ],
+      "ProjectionType": "CrossSection",
+      "LayerName": "AE-FNSH",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "1"
+      ],
+      "ComponentTypes": [
+        "墙",
+        "SU模型",
+        "表皮",
+        "RhinoObject",
+        "简易拉伸体",
+        "楼板",
+        "线脚路径",
+        "拉伸体",
+        "坡道",
+        "屋顶",
+        "楼梯",
+        "旋转楼梯",
+        "梯段",
+        "平台",
+        "自由板",
+        "台阶"
+      ],
+      "MaterialIds": [
+        "90357492-cc29-4772-ade5-d437064ae186",
+        "8e08ec0c-32f4-41ae-888c-96614f2843ce"
+      ],
+      "ProjectionType": "CrossSection",
+      "LayerName": "AE-STAR",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "1"
+      ],
+      "ComponentTypes": [
+        "门",
+        "门连窗",
+        "门框",
+        "门扇",
+        "门分割条"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "CrossSection",
+      "LayerName": "AE-DOOR-INSD",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "1"
+      ],
+      "ComponentTypes": [
+        "墙",
+        "SU模型",
+        "RhinoObject",
+        "简易拉伸体",
+        "楼板",
+        "拉伸体",
+        "坡道",
+        "平台",
+        "自由板",
+        "台阶"
+      ],
+      "MaterialIds": [
+        "8222f3fd-2d45-495e-9f75-cca5d83873f9"
+      ],
+      "ProjectionType": "Hatch",
+      "LayerName": "AE-STRU-HACH",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "1"
+      ],
+      "ComponentTypes": [
+        "墙",
+        "SU模型",
+        "RhinoObject",
+        "简易拉伸体",
+        "楼板",
+        "线脚路径",
+        "拉伸体",
+        "坡道",
+        "屋顶",
+        "自由板"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "Hatch",
+      "LayerName": "AE-WALL-HACH",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "1"
+      ],
+      "ComponentTypes": [
+        "墙",
+        "SU模型",
+        "表皮",
+        "简易拉伸体",
+        "线脚路径",
+        "拉伸体",
+        "坡道",
+        "屋顶",
+        "楼梯",
+        "旋转楼梯",
+        "梯段",
+        "平台",
+        "自由板"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "CrossSection",
+      "LayerName": "AE-WALL",
+      "UseType": null
+    },
+    {
+      "Major": "S",
+      "ViewTypes": [
+        "1"
+      ],
+      "ComponentTypes": [
+        "柱",
+        "结构墙",
+        "结构板"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "CrossSection",
+      "LayerName": "S_DETL",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "1"
+      ],
+      "ComponentTypes": [
+        "栏杆"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "ReadLine",
+      "LayerName": "AE-ELEV-4-RAIL",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "2"
+      ],
+      "ComponentTypes": [
+        "栏杆"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "ReadLine",
+      "LayerName": "AE-ELEV-4-RAIL",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "0"
+      ],
+      "ComponentTypes": [
+        "楼板"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "ReadLine",
+      "LayerName": "AE-ELEV-3",
+      "UseType": null
+    },
+    {
+      "Major": "A",
+      "ViewTypes": [
+        "0"
+      ],
+      "ComponentTypes": [
+        "屋顶",
+        "自由板"
+      ],
+      "MaterialIds": [
+        "60e01f7f-1f91-4d16-b3a3-de99270694a0"
+      ],
+      "ProjectionType": "ReadLine",
+      "LayerName": "AE-ROOF-RIDG",
+      "UseType": null
+    }
+  ]
+}

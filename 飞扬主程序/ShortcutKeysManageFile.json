@@ -1,0 +1,432 @@
+[
+  {
+    "CommandName": "TResetAllLayer",
+    "CommandNote": "图层恢复",
+    "ShortcutKey": "0",
+    "ShortcutsType": 0
+  },
+  {
+    "CommandName": "TOffLayer",
+    "CommandNote": "关闭图层",
+    "ShortcutKey": "1",
+    "ShortcutsType": 0
+  },
+  {
+    "CommandName": "TSelObj",
+    "CommandNote": "对象选择",
+    "ShortcutKey": "2",
+    "ShortcutsType": 0
+  },
+  {
+    "CommandName": "TMkHide",
+    "CommandNote": "局部隐藏",
+    "ShortcutKey": "3",
+    "ShortcutsType": 0
+  },
+  {
+    "CommandName": "TLocVis",
+    "CommandNote": "局部可见",
+    "ShortcutKey": "4",
+    "ShortcutsType": 0
+  },
+  {
+    "CommandName": "TUnHide",
+    "CommandNote": "恢复可见",
+    "ShortcutKey": "5",
+    "ShortcutsType": 0
+  },
+  {
+    "CommandName": "TDragCopy",
+    "CommandNote": "自由复制",
+    "ShortcutKey": "6",
+    "ShortcutsType": 0
+  },
+
+
+
+
+  {
+    "CommandName": "TDragMove",
+    "CommandNote": "自由移动",
+    "ShortcutKey": "7",
+    "ShortcutsType": 0
+  },
+  {
+    "CommandName": "TPasteClip",
+    "CommandNote": "自由粘贴",
+    "ShortcutKey": "8",
+    "ShortcutsType": 0
+  },
+  {
+    "CommandName": "ERASE",
+    "CommandNote": "擦除",
+    "ShortcutKey": "E",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "LINE",
+    "CommandNote": "直线",
+    "ShortcutKey": "L",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "ARC",
+    "CommandNote": "圆弧",
+    "ShortcutKey": "A",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "CIRCLE",
+    "CommandNote": "圆",
+    "ShortcutKey": "C",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "ELLIPSE",
+    "CommandNote": "椭圆",
+    "ShortcutKey": "EL",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "RAY",
+    "CommandNote": "射线",
+    "ShortcutKey": "R",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "XLINE",
+    "CommandNote": "构造线",
+    "ShortcutKey": "XL",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "RECTANG",
+    "CommandNote": "矩形",
+    "ShortcutKey": "REC",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "POLYGON",
+    "CommandNote": "多边形",
+    "ShortcutKey": "POL",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "PLINE",
+    "CommandNote": "多段线",
+    "ShortcutKey": "PL",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "WipeOut",
+    "CommandNote": "填充",
+    "ShortcutKey": "WO",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "SPLINE",
+    "CommandNote": "样条曲线",
+    "ShortcutKey": "SPL",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "BLOCK",
+    "CommandNote": "创建块",
+    "ShortcutKey": "B",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "LAYER",
+    "CommandNote": "图层",
+    "ShortcutKey": "LA",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "LINETYPE",
+    "CommandNote": "线型",
+    "ShortcutKey": "LT",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "LAYISO",
+    "CommandNote": "图层隔离",
+    "ShortcutKey": "LI",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "DSETTINGS",
+    "CommandNote": "捕捉设置",
+    "ShortcutKey": "DS",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "QUICKSELECT",
+    "CommandNote": "快速选择",
+    "ShortcutKey": "QS",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "DIMARC",
+    "CommandNote": "弧长标注",
+    "ShortcutKey": "DAR",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "DIMJOGGED",
+    "CommandNote": "折弯标注",
+    "ShortcutKey": "DJO",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "TEXT",
+    "CommandNote": "文本",
+    "ShortcutKey": "Text",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "TEXTEDIT",
+    "CommandNote": "文本编辑",
+    "ShortcutKey": "TextExit",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "GROUP",
+    "CommandNote": "组",
+    "ShortcutKey": "G",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "BREAK",
+    "CommandNote": "打断",
+    "ShortcutKey": "BR",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "BREAKATPOINT",
+    "CommandNote": "打断于点",
+    "ShortcutKey": "BRT",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "JOIN",
+    "CommandNote": "合并",
+    "ShortcutKey": "J",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "STRETCH",
+    "CommandNote": "拉伸",
+    "ShortcutKey": "S",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "STYLE",
+    "CommandNote": "文字样式",
+    "ShortcutKey": "Style",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "EXTEND",
+    "CommandNote": "延伸",
+    "ShortcutKey": "EX",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "SCALE",
+    "CommandNote": "缩放",
+    "ShortcutKey": "SC",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "ROTATE",
+    "CommandNote": "旋转",
+    "ShortcutKey": "RO",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "MIRROR",
+    "CommandNote": "镜像",
+    "ShortcutKey": "MI",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "MOVE",
+    "CommandNote": "移动",
+    "ShortcutKey": "M",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "OFFSET",
+    "CommandNote": "偏移",
+    "ShortcutKey": "O",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "COPY",
+    "CommandNote": "复制",
+    "ShortcutKey": "CO",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "ARRAY",
+    "CommandNote": "阵列",
+    "ShortcutKey": "AR",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "LENGTHEN",
+    "CommandNote": "拉长",
+    "ShortcutKey": "LEN",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "DIMALIGNED",
+    "CommandNote": "对齐标注",
+    "ShortcutKey": "DAL",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "DIMLINEAR",
+    "CommandNote": "线性标注",
+    "ShortcutKey": "DLI",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "DimElevation",
+    "CommandNote": "标高标注",
+    "ShortcutKey": "BZBZ",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "DimPointByPoint",
+    "CommandNote": "逐点标注",
+    "ShortcutKey": "ZDBZ",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "TRIM",
+    "CommandNote": "修剪",
+    "ShortcutKey": "TR",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "FILLET",
+    "CommandNote": "倒圆角",
+    "ShortcutKey": "F",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "CHAMFER",
+    "CommandNote": "倒角",
+    "ShortcutKey": "CHA",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "EXPLODE",
+    "CommandNote": "炸开",
+    "ShortcutKey": "EX",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "DRAWINGORDER",
+    "CommandNote": "绘图次序",
+    "ShortcutKey": "DR",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "Hatch",
+    "CommandNote": "填充",
+    "ShortcutKey": "H",
+    "ShortcutsType": 1
+  },
+  {
+    "CommandName": "TRectAxis",
+    "CommandNote": "绘制轴网",
+    "ShortcutKey": "HZZW",
+    "ShortcutsType": 2
+  },
+  {
+    "CommandName": "TSingleAxis",
+    "CommandNote": "单根绘制",
+    "ShortcutKey": "DZHZ",
+    "ShortcutsType": 2
+  },
+  {
+    "CommandName": "Wall",
+    "CommandNote": "绘制墙体",
+    "ShortcutKey": "HZQT",
+    "ShortcutsType": 2
+  },
+  {
+    "CommandName": "TSWall",
+    "CommandNote": "单线变墙",
+    "ShortcutKey": "DXBQ",
+    "ShortcutsType": 2
+  },
+  {
+    "CommandName": "TOpening",
+    "CommandNote": "门窗",
+    "ShortcutKey": "MC",
+    "ShortcutsType": 2
+  },
+  {
+    "CommandName": "TLStair",
+    "CommandNote": "直线楼梯",
+    "ShortcutKey": "ZXTD",
+    "ShortcutsType": 2
+  },
+  {
+    "CommandName": "TAStair",
+    "CommandNote": "弧线楼梯",
+    "ShortcutKey": "YHTD",
+    "ShortcutsType": 2
+  },
+  {
+    "CommandName": "Building",
+    "CommandNote": "建筑",
+    "ShortcutKey": "BD",
+    "ShortcutsType": 2
+  },
+  {
+    "CommandName": "BasePoint",
+    "CommandNote": "基点",
+    "ShortcutKey": "BP",
+    "ShortcutsType": 2
+  },
+  {
+    "CommandName": "TGStructL",
+    "CommandNote": "绘制结构梁",
+    "ShortcutKey": "HZJGL",
+    "ShortcutsType": 3
+  },
+  {
+    "CommandName": "TGStructZ",
+    "CommandNote": "绘制结构柱",
+    "ShortcutKey": "HZJGZ",
+    "ShortcutsType": 3
+  },
+  {
+    "CommandName": "TGSHEBEI",
+    "CommandNote": "绘制设备",
+    "ShortcutKey": "HZSB",
+    "ShortcutsType": 4
+  },
+  {
+    "CommandName": "TGGUANDAO",
+    "CommandNote": "绘制管道",
+    "ShortcutKey": "HZGD",
+    "ShortcutsType": 4
+  },
+  {
+    "CommandName": "TGFENGGUAN",
+    "CommandNote": "绘制风管",
+    "ShortcutKey": "HZFG",
+    "ShortcutsType": 5
+  },
+  {
+    "CommandName": "TGQIAOJIA",
+    "CommandNote": "绘制桥架",
+    "ShortcutKey": "HZQJ",
+    "ShortcutsType": 5
+  }
+]

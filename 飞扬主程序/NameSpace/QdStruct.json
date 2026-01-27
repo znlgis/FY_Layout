@@ -1,0 +1,175 @@
+﻿{
+  "Name": "结构施工图设计",
+  "DisplayName": "结构施工图设计",
+  "Description": "结构设计行业的类型配置文件",
+  "Categories": [
+    {
+      "Uuid": "327AD22E-EA29-4409-97E9-3E4832A8C40E",
+      "Name": "结构",
+      "DisplayName": "结构",
+      "Major": "S",
+      "Description": "结构"
+    },
+    {
+      "Uuid": "361FC46A-E140-44A7-8C92-EE3D4335DF68",
+      "Name": "梁",
+      "DisplayName": "梁",
+      "Major": "S",
+      "Description": "梁"
+    },
+    {
+      "Uuid": "3F47B2BF-58A3-8DFE-78D8-719F172C2E2C",
+      "Name": "柱",
+      "DisplayName": "柱",
+      "Major": "S",
+      "Description": "柱"
+    },
+    {
+      "Uuid": "DB27BC1A-DDDD-E8B1-0AED-8A26368FC392",
+      "Name": "构造柱",
+      "DisplayName": "构造柱",
+      "Major": "S",
+      "Description": "构造柱"
+    },
+    {
+      "Uuid": "DC99F70B-9B8C-B1A1-89D1-A28F5D1194F6",
+      "Name": "结构墙",
+      "DisplayName": "结构墙",
+      "Major": "S",
+      "Description": "结构墙"
+    },
+    {
+      "Uuid": "652FB5E7-EE90-3AFD-9384-547DB67AC367",
+      "Name": "结构板",
+      "DisplayName": "结构板",
+      "Major": "S",
+      "Description": "结构板"
+    },
+    {
+      "Uuid": "DDC0919B-8BA0-0ED7-EE3E-DB3C8E9F35B2",
+      "Name": "斜杆",
+      "DisplayName": "斜杆",
+      "Major": "S",
+      "Description": "斜杆"
+    },
+    {
+      "Uuid": "B8C9443C-28AF-E54B-7F29-B5BB85049422",
+      "Name": "基础",
+      "DisplayName": "基础",
+      "Major": "S",
+      "Description": "基础"
+    },
+    {
+      "Uuid": "8b9890b0-ec74-88fa-da99-aa5898d96fd2",
+      "Name": "地基梁",
+      "DisplayName": "地基梁",
+      "Major": "S",
+      "Description": "地基梁"
+    },
+    {
+      "Uuid": "530ec6d6-21ac-69c2-d11a-d1363c758870",
+      "Name": "桩基承台",
+      "DisplayName": "桩基承台",
+      "Major": "S",
+      "Description": "桩基承台"
+    },
+    {
+      "Uuid": "d5fc07b0-cb03-4969-9c5c-d2e6327c44e0",
+      "Name": "桩",
+      "DisplayName": "桩",
+      "Major": "S",
+      "Description": "桩"
+    },
+    {
+      "Uuid": "63346628-6299-c3c3-9ef0-bd35f5ea8e7b",
+      "Name": "筏板",
+      "DisplayName": "筏板",
+      "Major": "S",
+      "Description": "筏板"
+    },
+    {
+      "Uuid": "bff83ef5-940a-7ba5-c9b4-e1854cc03a52",
+      "Name": "筏板加腋",
+      "DisplayName": "筏板加腋",
+      "Major": "S",
+      "Description": "筏板加腋"
+    },
+    {
+      "Uuid": "FD1290C5-4AB9-727B-4A17-6CDFAA344C36",
+      "Name": "钢筋",
+      "DisplayName": "钢筋",
+      "Major": "S",
+      "Description": "钢筋"
+    },
+    {
+      "Uuid": "A4235AEA-149E-49E7-85E4-953965EA43FE",
+      "Name": "节点",
+      "DisplayName": "节点",
+      "Major": "S",
+      "Description": "节点"
+    },
+    {
+      "Uuid": "5FFF775D-BECE-4C6A-A10B-BB325565641A",
+      "Name": "钢柱-槽形",
+      "DisplayName": "钢柱-槽形",
+      "Major": "S",
+      "Description": "钢柱-槽形"
+    },
+    {
+      "Uuid": "D8FC5ED7-17EB-58CB-FD53-FC6F986C8A96",
+      "Name": "钢柱-焊接H形",
+      "DisplayName": "钢柱-焊接H形",
+      "Major": "S",
+      "Description": "钢柱-焊接H形"
+    },
+    {
+      "Uuid": "F2DB8ADF-61EA-497B-B629-0826CAB1D3A1",
+      "Name": "钢柱-圆孔截面",
+      "DisplayName": "钢柱-圆孔截面",
+      "Major": "S",
+      "Description": "钢柱-圆孔截面"
+    },
+    {
+      "Uuid": "76B9F8F8-5820-4FF6-BC59-D4087F1D0016",
+      "Name": "钢柱-矩形空腹形",
+      "DisplayName": "钢柱-矩形空腹形",
+      "Major": "S",
+      "Description": "钢柱-矩形空腹形"
+    },
+    {
+      "Uuid": "FA46B699-493E-4D7A-A251-F61B63F8732B",
+      "Name": "钢柱-十字工",
+      "DisplayName": "钢柱-十字工",
+      "Major": "S",
+      "Description": "钢柱-十字工"
+    },
+    {
+      "Uuid": "370F4DE9-3CE9-47B4-A089-4D0B0A285238",
+      "Name": "钢梁-焊接H形",
+      "DisplayName": "钢梁-焊接H形",
+      "Major": "S",
+      "Description": "钢梁-焊接H形"
+    },
+    {
+      "Uuid": "A23076DF-0AAC-40A4-8F90-EA722AD1AD89",
+      "Name": "钢梁-矩形空腹形",
+      "DisplayName": "钢梁-矩形空腹形",
+      "Major": "S",
+      "Description": "钢梁-矩形空腹形"
+    },
+    {
+      "Uuid": "833B305D-FF90-4EC7-AE8F-E7B3E774DBFF",
+      "Name": "零件",
+      "DisplayName": "零件",
+      "Major": "S",
+      "Description": "零件"
+    }
+  ],
+  "MajorInfos": [
+    {
+      "Name": "Struct",
+      "DisplayName": "结构",
+      "Code": "S"
+    }
+  ]
+}

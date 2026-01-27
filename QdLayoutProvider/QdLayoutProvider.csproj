@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <BaseOutputPath>..\Build\Providers</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="LightCAD.Core">
+      <HintPath>..\Libs\LightCAD.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="LightCAD.MathLib">
+      <HintPath>..\Libs\LightCAD.MathLib.dll</HintPath>
+    </Reference>
+    <Reference Include="LightCAD.RenderUtils">
+      <HintPath>..\Libs\LightCAD.RenderUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="ThreeJs4Net">
+      <HintPath>..\Libs\ThreeJs4Net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

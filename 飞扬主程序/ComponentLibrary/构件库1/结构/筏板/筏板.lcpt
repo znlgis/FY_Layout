@@ -1,0 +1,93 @@
+{
+  "Uuid": "2D468B9F-1F7B-9477-BFC0-0CD032CEBD7F",
+  "Major": "S",
+  "Name": "筏板",
+  "ClassName": "筏板",
+  "DisplayName": null,
+  "Description": null,
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "结构施工图设计.筏板",
+  "FilePath": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinComDefs\\QdStruct.lclib",
+  "Thumbnail": null,
+  "SubCategoryName": "筏板",
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "Commands": null,
+  "Features": null,
+  "PropertyDefs2": [
+    {
+      "Name": "Thickness",
+      "Souce": "Host",
+      "DisplayName": "板厚",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1001,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Bottom",
+      "Souce": "Host",
+      "DisplayName": "底高度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1002,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    }
+  ],
+  "Shape2dProviders": [
+    {
+      "Name": null,
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "System",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": null,
+      "DllProviderUuid": null,
+      "Thumbnail": null,
+      "Relative3dName": null
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Name": null,
+      "IsDefault": false,
+      "Type": "Solid3d",
+      "SourceType": "System",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": null,
+      "DllProviderUuid": null,
+      "Thumbnail": null,
+      "Relative2dName": null
+    }
+  ],
+  "AlternateMaterial2d": "8222f3fd-2d45-495e-9f75-cca5d83873f9",
+  "AlternateMaterial3d": "A9AD996E-F3C3-EDE0-18BF-68BE211CEC2F"
+}

@@ -1,26 +1,39 @@
-### 平台简介
-飞扬集成设计平台是一个开源的建筑工程设计软件，目标是打造面向建筑设计行业，融二维设计、三维设计、BIM设计、智能设计、协同设计为一体的BIM正向设计支撑软件。
-本项目源代码为 场地布置二次开发插件示例源代码，并包含飞扬主体DLL
+# LightBIM123
 
-### 业务愿景
-- 按照建筑工程设计的特点，对流行的xxxCAD系统进行功能裁剪，确保系统的简洁及稳定；
-- 对所有核心代码开源，文件格式开放，并兼容DWG/DXF格式，并做好与主流模型格式的互通；
-- 建立统一管理的插件体系，确保各个插件之间的互操作性，确保插件的规范部署及自动发布。
-- 实现与二维设计全兼容的三维组件体系，对建筑、结构、机电专业进行完善的二三维组件设计支持，实现以二维设计为主，三维设计为辅的实时BIM正向设计能力。
+#### 介绍
+{**以下是 Gitee 平台说明，您可以替换此简介**
+Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
+无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
 
-### 商业愿景
-飞扬集成设计平台对个人、学校永久免费，对企业用户进行授权。基于飞扬集成设计平台的各类插件，由相关开发者决定其商业规则。本项目将遵循共同开发、共同拥有的基本原则，对平台未来的商业价值，所有贡献人进行分享。
+#### 软件架构
+软件架构说明
 
-### 授权协议
-CC-BY-NC 4.0
 
-### 技术路线
-- 原则1：积极采用成熟的开源技术，实现跨平台应用；
-- 原则2：采用现代应用软件的体系架构、设计模式及UI模式；
-- 开发语言：核心框架采用C#语言，插件支持C#及Javascript脚本；
-- 开发环境：VS2022 社区版（17.5.5以上）；
-- 主要组件：UI采用Avalonia/Winform双框架，二维图形引擎采用SkiaSharp，三维模型引擎采用基于OpenGL的ThreeSharp；
+#### 安装教程
 
-### 加入项目
-加微信qishou003 或平台私信
+1.  xxxx
+2.  xxxx
+3.  xxxx
 
+#### 使用说明
+
+1.  xxxx
+2.  xxxx
+3.  xxxx
+
+#### 参与贡献
+
+1.  Fork 本仓库
+2.  新建 Feat_xxx 分支
+3.  提交代码
+4.  新建 Pull Request
+
+
+#### 特技
+
+1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
+2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
+3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
+4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
+5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
+6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)

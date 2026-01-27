@@ -1,0 +1,122 @@
+{
+  "Uuid": "07FE08AE-B2FC-8A3F-FBAF-C6357F98F2F7",
+  "Major": "A",
+  "Name": "场地",
+  "DisplayName": null,
+  "Description": null,
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "场布施工设计.建构筑物",
+  "SubCategoryName": "场地",
+  "Commands": "Site|Site:任意绘制;SiteRec:矩形绘制;SiteChange:转换多段线;",
+  "Thumbnail": {
+    "Src": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAVZSURBVFhH7ZZdTFtlGMf//aClpaUfQCkUCB9jG+iIwhwfCWxmml3MxZhoNCZeqEs0xpB44ceFEYiLF3rh3W4WNfNqMVmMUbM4JRA2jIBzMAdlQDsYAwrt2tLvD9r6nJ5T4PCebt4su9mPvD2c57znnP953//zvC8e86iRCccs/f39q3TQ8WcPh0wmMzkwMNAjnDICAjJzhb60qg4qpUKIsoTjCTg9QbjDCSgUMlj1GlQZtShSFQg9xGTobzMURvDOAmTRwDUScFi4BKVw3EZnseHUyedhVQkBCTxJ4Pzfy5ic20AgtoUNjRpmWxna6svQYlFBI/TLQd0xTH0nPBvIRAN8UEAuHLdRyGUw08u5b8nXKujnvc5qDBw/iANlOrhDcfw0s4qzfzowcTfC9NdyTcm8KgsblcnE85KHYmrHqorQ29WAAxY9YltpzKwHcPHmKkJ8FxFyuZwa+2RJWdJapemyFuL0M3VorzJBTX74d82P3xc2has7yEiAFEw0Et/CvD8Fd5rmOsPP34M4btPgw2P7cbTegnAyje+uLWFkLS5c5aGBlYQR4LgXwpfDt/DZ5QVqDnw9torBlQiu+1LwkKh87KOJfq21BhadGou+KAYdG8IVnnzTyggIJVKYcgUwuujB1SUPLkwt48wfdhIzjT4S9eui1AzztBrlaK8xk5GB294wvDSCOTgPSMFE60p0eOtIA94+Uo8OmlejRoVkOk1Oj+HqohufD9rxydAiboizaZsTBythKCyA3R3EpVs+IcoLkBoFpg5UGbR4t7UMXBnKwAJnDCBbwENF5/LcOkacbjLZBsbv+vBcYzk+7qjM9s3RVapAW3UJhuZduL7iwysHTbhPSZEwPMnMPZBT3FAINFNx7ilX4dPuanz0bBNaKkzwRZP4eWYFPzqCfOddvHzIhnLywgSJHFvnbSzL40JGQD6zcJAWvFCjwfvdjXjKZkIslcaFyTuYi/LXc3SWKtFDVTGU2MIwjRgH7wH26dLOeABtBuCDnkY0WwxY8ZPj5+8JV3aoNBSRGRXZabCTwFQ68/8KkTxfwu6hRQ/0dh+ARa/Gpdk1/LYmrhhP1xhhM2iwTuadXo+SkXelxC4YAVzH6TDwzU0vBq7cQd+VJZwZXcZFZwh7y0C7WYbWKjM2YwnMuMTVr6UIaCo30vJLJk6Si/PACFjyhfAF5f25cQcuzbkwctuDX2ZdODs6j/N2v9Brh300DRw3VrxwZf/bobBAgTSl8GY0gST5RQpGwKo/gkUqIs3lBvT2NOGrF9vwJtUENe0Pvh134gdnROjJc2KfDhXFWizRfWPLCSHK02w10n5Bjn9W/Jj3hCitWRgBxYVK9B5twrmT+/F6ox6H6QPfOVSC052NWX98P+GER+jLUUrNqFXTl2YQjIjT4VhtIcq0KqohcUpbsbgcjIAmqwmv1pODhfMcL9Vq0F1ngS8Sx6RLPKeNZfpstZxa3al8HGQDaNUF28kntdAzArR5tlXcraeetEFJQzqyIJ7trtpSGNQqcnsQS7vGmdsZmWl0uMTKJhf7flbA/bKw3UTuthpo85ESIjwdFH/Cqs/memrPRHNZoiLRXDZIISGACYkop7UitcfRnGYTLVoyKjR7071YrQTtUySHn4N5my8Qwpg7iVtUC/Y2O63EwUAAHq8PQ3dDmBXif7kT8G5uQpGMYNLhFd3jXNtAOh5BOBxEMslub0SyuG05tMV6ld6U3ZxK4Q3HEEumUFKkhrqAX0y3aES4XI9QwbHoNBTfsbA/GkeU9hhFBXIow16qdHHRtlz0lr6+vhE6cJvYhwatinb60DeE08c8aoD/AIG99h7IwpbcAAAAAElFTkSuQmCC"
+  },
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "PropertyDefs2": [
+    {
+      "Name": "Material",
+      "Souce": "Host",
+      "DisplayName": "材质",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1001,
+      "DataType": "Material",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Outline",
+      "Souce": "Host",
+      "DisplayName": "轮廓",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1002,
+      "DataType": "Curve2d",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Bottom",
+      "Souce": "Host",
+      "DisplayName": "底高度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1003,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": 0,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Thickness",
+      "Souce": "Host",
+      "DisplayName": "厚度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1004,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": 3000,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    }
+  ],
+  "Shape2dProviders": [
+    {
+      "Type": "Shape2d",
+      "SourceType": "System",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdLayoutProvider.dll",
+      "DllProviderUuid": null
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Type": "Solid3d",
+      "SourceType": "System",
+      "UseType": null,
+      "EmbedBlock": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdLayoutProvider.dll",
+      "DllProviderUuid": null
+    }
+  ]
+}

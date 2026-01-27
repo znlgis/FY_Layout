@@ -1,0 +1,112 @@
+{
+  "Uuid": "8259db02-6657-f1ff-3354-701e8a470f47",
+  "Major": "S",
+  "Name": "地基梁",
+  "ClassName": "地基梁",
+  "DisplayName": null,
+  "Description": null,
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "结构施工图设计.地基梁",
+  "FilePath": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinComDefs\\QdStruct.lclib",
+  "Thumbnail": null,
+  "SubCategoryName": "地基梁",
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "Commands": null,
+  "Features": null,
+  "PropertyDefs2": [ 
+    {
+      "Name": "Bottom",
+      "Souce": "Host",
+      "DisplayName": "底高度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1003,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "CenterOffset",
+      "Souce": "Host",
+      "DisplayName": "中心偏移",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1005,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "SectType",
+      "Souce": "Host",
+      "DisplayName": "截面类型",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1134,
+      "DataType": "String",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    }
+  ],
+  "Shape2dProviders": [
+    {
+      "Name": null,
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdStructProvider.dll",
+      "DllProviderUuid": "9a301d05-5262-4bc2-b269-0c01f326aa8d",
+      "Thumbnail": null,
+      "Relative3dName": null
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Name": null,
+      "IsDefault": false,
+      "Type": "Solid3d",
+      "SourceType": "System",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": null,
+      "DllProviderUuid": null,
+      "Thumbnail": null,
+      "Relative2dName": null
+    }
+  ],
+  "AlternateMaterial2d": "8222f3fd-2d45-495e-9f75-cca5d83873f9",
+  "AlternateMaterial3d": "34dccb03-1982-4afd-8d0a-a4a788f462ad"
+}

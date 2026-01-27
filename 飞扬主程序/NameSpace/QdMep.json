@@ -1,0 +1,157 @@
+﻿{
+  "Name": "建筑施工图设计",
+  "DisplayName": "建筑施工图设计",
+  "Description": "建筑设计行业的类型配置文件",
+  "Categories": [
+    {
+      "Uuid": "5ABAE3C3-02D2-489B-8886-138D5C7FE5A4",
+      "Name": "管道",
+      "DisplayName": "管道",
+      "Major": "W",
+      "Description": "管道"
+    },
+    {
+      "Uuid": "E6228F17-48D9-4455-87EC-2B4B16F6C09E",
+      "Name": "水管管件",
+      "DisplayName": "水管管件",
+      "Major": "W",
+      "Description": "水管管件"
+    },
+    {
+      "Uuid": "107387FE-7296-4EDB-8690-9C6271B3E5A6",
+      "Name": "阀门阀件",
+      "DisplayName": "阀门阀件",
+      "Major": "W",
+      "Description": "阀门阀件"
+    },
+    {
+      "Uuid": "ED09F0BA-FE30-45F8-A74E-60975F8115AB",
+      "Name": "管道附件",
+      "DisplayName": "管道附件",
+      "Major": "W",
+      "Description": "管道附件"
+    },
+    {
+      "Uuid": "8A39F709-A7B0-45B8-ABAA-76C933FD4E2C",
+      "Name": "常用仪表",
+      "DisplayName": "常用仪表",
+      "Major": "W",
+      "Description": "常用仪表"
+    },
+    {
+      "Uuid": "29E08ABA-AA92-477E-9E52-CF22CBB47A37",
+      "Name": "卫生设备",
+      "DisplayName": "卫生设备",
+      "Major": "W",
+      "Description": "卫生设备"
+    },
+    {
+      "Uuid": "EE2B71B1-6470-49DC-9210-4BC4CFF87C7A",
+      "Name": "消防设施",
+      "DisplayName": "消防设施",
+      "Major": "W",
+      "Description": "消防设施"
+    },
+    {
+      "Uuid": "549DAB4B-6CF1-49DC-95EC-D06AB70451C8",
+      "Name": "排水附件",
+      "DisplayName": "排水附件",
+      "Major": "W",
+      "Description": "排水附件"
+    },
+    {
+      "Uuid": "04E252B2-F42E-4739-B129-DFA9416B9EB4",
+      "Name": "给水附件",
+      "DisplayName": "给水附件",
+      "Major": "W",
+      "Description": "给水附件"
+    },
+    {
+      "Uuid": "B97952B4-2FCC-477E-A6CC-B5327D0FA74C",
+      "Name": "风管",
+      "DisplayName": "风管",
+      "Major": "H",
+      "Description": "风管"
+    },
+    {
+      "Uuid": "3C141A4D-5D92-45DC-8DBD-760AEBD5CEEB",
+      "Name": "风管管件",
+      "DisplayName": "风管管件",
+      "Major": "H",
+      "Description": "风管管件"
+    },
+    {
+      "Uuid": "189B69C0-A359-46EB-A175-14BD104C4BE7",
+      "Name": "风阀",
+      "DisplayName": "风阀",
+      "Major": "H",
+      "Description": "风阀"
+    },
+    {
+      "Uuid": "BCCAF3E9-D1D9-499A-B13C-DA5C31EDC3F8",
+      "Name": "风口",
+      "DisplayName": "风口",
+      "Major": "H",
+      "Description": "风口"
+    },
+    {
+      "Uuid": "685D5D97-BDAA-47F1-9B89-449C3AEA5311",
+      "Name": "风机",
+      "DisplayName": "风机",
+      "Major": "H",
+      "Description": "风机"
+    },
+    {
+      "Uuid": "775E7F79-877D-4A2C-9F4A-9407682C70EF",
+      "Name": "电缆桥架",
+      "DisplayName": "电缆桥架",
+      "Major": "E",
+      "Description": "电缆桥架"
+    },
+    {
+      "Uuid": "C36F2A77-05C2-6E29-19E2-5EF9D3575E57",
+      "Name": "电线",
+      "DisplayName": "电线",
+      "Major": "E",
+      "Description": "电线"
+    },
+    {
+      "Uuid": "5CA6F3DD-58F5-427E-B8A3-C1D8F6467B3D",
+      "Name": "电缆桥架配件",
+      "DisplayName": "电缆桥架配件",
+      "Major": "E",
+      "Description": "电缆桥架配件"
+    },
+    {
+      "Uuid": "E2791FEC-3440-4E09-A9F8-077284868BE7",
+      "Name": "电气设备",
+      "DisplayName": "电气设备",
+      "Major": "E",
+      "Description": "电气设备"
+    },
+    {
+      "Uuid": "94AE6936-7911-478C-98CD-FD9D53BD499D",
+      "Name": "喷淋",
+      "DisplayName": "喷淋",
+      "Major": "W",
+      "Description": "喷淋"
+    }
+  ],
+  "MajorInfos": [
+    {
+      "Name": "HVAC",
+      "DisplayName": "暖通",
+      "Code": "H"
+    },
+    {
+      "Name": "Water",
+      "DisplayName": "给排水",
+      "Code": "W"
+    },
+    {
+      "Name": "Electricity",
+      "DisplayName": "电气",
+      "Code": "E"
+    }
+  ]
+}

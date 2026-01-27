@@ -1,0 +1,47 @@
+[
+  {
+    "MajorName": "建筑",
+    "Index": 1,
+    "MajorCode": "A",
+    "ControlInfos": [
+      {
+        "ControlType": "radioButton",
+        "Text": null,
+        "ControlLableName": "是否包含洞口",
+        "FilterValues": [
+          "是",
+          "否"
+        ]
+      }
+    ]
+  },
+  {
+    "MajorName": "建筑",
+    "Index": 2,
+    "MajorCode": "A",
+    "ControlInfos": [
+      {
+        "ControlType": "comboBox",
+        "Text": null,
+        "ControlLableName": "是否是墙",
+        "FilterValues": [
+          "是",
+          "否"
+        ]
+      }
+    ]
+  },
+  {
+    "MajorName": "建筑",
+    "Index": 3,
+    "MajorCode": "A",
+    "ControlInfos": [
+      {
+        "ControlType": "checkBox",
+        "Text": "厂家构件",
+        "ControlLableName": "厂家构件",
+        "FilterValues": null
+      }
+    ]
+  }
+]

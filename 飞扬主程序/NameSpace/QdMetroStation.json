@@ -1,0 +1,203 @@
+﻿{
+  "Name": "地铁站设计",
+  "DisplayName": "地铁站设计",
+  "Description": "地铁设计的类型配置文件",
+  "Categories": [
+    {
+      "Uuid": "12AAE916-E9A4-4E3B-9765-80ED4B9E4B93",
+      "Name": "站台",
+      "DisplayName": "站台",
+      "Major": "M",
+      "Description": "站台"
+    },
+    {
+      "Uuid": "94356088-B2A0-4B79-BF29-626037CB26D2",
+      "Name": "轨道",
+      "DisplayName": "轨道",
+      "Major": "M",
+      "Description": "轨道"
+    },
+    {
+      "Uuid": "B3946085-62FF-453B-A4DB-498B75A5AD61",
+      "Name": "电梯",
+      "DisplayName": "电梯",
+      "Major": "M",
+      "Description": "电梯"
+    },
+    {
+      "Uuid": "A32DAA00-9113-41E3-BD43-B9066C716A7C",
+      "Name": "站厅",
+      "DisplayName": "站厅",
+      "Major": "M",
+      "Description": "站厅"
+    },
+    {
+      "Uuid": "B6ACAC4B-31B6-40BB-8129-CA7723B8E54A",
+      "Name": "专用空间",
+      "DisplayName": "专用空间",
+      "Major": "M",
+      "Description": "专用空间"
+    },
+    {
+      "Uuid": "9BAE66EC-542C-427D-BFC1-97A257145CFC",
+      "Name": "扶梯",
+      "DisplayName": "扶梯",
+      "Major": "M",
+      "Description": "扶梯"
+    },
+    {
+      "Uuid": "EC504287-5B65-4877-BD18-5E2108FC259A",
+      "Name": "风亭",
+      "DisplayName": "风亭",
+      "Major": "M",
+      "Description": "风亭"
+    },
+    {
+      "Uuid": "07DFA77F-B584-4FE0-B881-5F8491F4B87F",
+      "Name": "中心线",
+      "DisplayName": "中心线",
+      "Major": "M",
+      "Description": "中心线"
+    },
+    {
+      "Uuid": "0604828C-DEA3-43F0-80FE-A73411BACB32",
+      "Name": "站台柱",
+      "DisplayName": "站台柱",
+      "Major": "M",
+      "Description": "站台柱"
+    },
+    {
+      "Uuid": "70A09B48-E30D-4012-AF8E-182EBE45B3F5",
+      "Name": "轮廓面",
+      "DisplayName": "轮廓面",
+      "Major": "M",
+      "Description": "轮廓面"
+    },
+    {
+      "Uuid": "91CFEF85-0C56-451B-BEC3-C754E5F3EEA5",
+      "Name": "出入口",
+      "DisplayName": "出入口",
+      "Major": "M",
+      "Description": "出入口"
+    },
+    {
+      "Uuid": "29408C84-8D32-4410-864C-64699D80625C",
+      "Name": "出入点",
+      "DisplayName": "出入点",
+      "Major": "M",
+      "Description": "出入点"
+    },
+    {
+      "Uuid": "EC1D507A-6CE1-42D7-8E2D-952BD3B1ED1A",
+      "Name": "安检点",
+      "DisplayName": "安检点",
+      "Major": "M",
+      "Description": "安检点"
+    },
+    {
+      "Uuid": "8521B3A3-C13B-4369-9BB5-AE1F0A7CF47C",
+      "Name": "售票点",
+      "DisplayName": "售票点",
+      "Major": "M",
+      "Description": "售票点"
+    },
+    {
+      "Uuid": "51668D92-3E0E-4801-80E6-C3091B560F36",
+      "Name": "车控点",
+      "DisplayName": "车控点",
+      "Major": "M",
+      "Description": "车控点"
+    },
+    {
+      "Uuid": "FDCB7E10-1E6F-4A78-B571-E8A4660B2B24",
+      "Name": "墙",
+      "DisplayName": "墙",
+      "Major": "A",
+      "Description": "墙"
+    },
+    {
+      "Uuid": "FE68E0C7-A079-4EAA-A4DE-6029E3935ABD",
+      "Name": "高程点",
+      "DisplayName": "高程点",
+      "Major": "M",
+      "Description": "高程点"
+    },
+    {
+      "Uuid": "C5305E1A-5BD7-4B22-BD7E-0AA7D0DB40BB",
+      "Name": "高程点图形",
+      "DisplayName": "高程点图形",
+      "Major": "M",
+      "Description": "高程点图形"
+    },
+    {
+      "Uuid": "025AFC88-9D2D-4F54-A3EB-ACD140538BD6",
+      "Name": "等高线",
+      "DisplayName": "等高线",
+      "Major": "M",
+      "Description": "等高线"
+    },
+    {
+      "Uuid": "4709297E-7EB8-40AA-AD0E-5789877629AD",
+      "Name": "楼板",
+      "DisplayName": "楼板",
+      "Major": "M",
+      "Description": "楼板"
+    },
+    {
+      "Uuid": "1282ACD6-1070-4A08-9A01-68961B28E7BE",
+      "Name": "闸机",
+      "DisplayName": "闸机",
+      "Major": "M",
+      "Description": "闸机"
+    },
+    {
+      "Uuid": "C5305E1A-1BD1-4B22-BD7E-0AA7D0DB40BB",
+      "Name": "建筑物",
+      "DisplayName": "建筑物",
+      "Major": "M",
+      "Description": "建筑物"
+    },
+    {
+      "Uuid": "C5305E1A-1BD1-8Z89-BD7E-0AA7D0DB40BB",
+      "Name": "地块",
+      "DisplayName": "地块",
+      "Major": "M",
+      "Description": "地块"
+    },
+    {
+      "Uuid": "C4299E1A-1BD1-8Z89-BD7E-0AA7D0DB40BB",
+      "Name": "地形元素",
+      "DisplayName": "地形元素",
+      "Major": "M",
+      "Description": "地形元素"
+    },
+    {
+      "Uuid": "C9912E1A-1BD1-1Z89-BD7E-0AA7D0DB40BB",
+      "Name": "管子",
+      "DisplayName": "管子",
+      "Major": "M",
+      "Description": "管子"
+    },
+    {
+      "Uuid": "5DBEE8BE-AE0E-467F-90FC-088F1EA2CDF9",
+      "Name": "通道",
+      "DisplayName": "通道",
+      "Major": "M",
+      "Description": "通道"
+    },
+    {
+      "Uuid": "33BA9A9D-0ADA-441A-9D72-7B03C61858E3",
+      "Name": "隧道",
+      "DisplayName": "隧道",
+      "Major": "M",
+      "Description": "隧道"
+    }
+  ],
+  "MajorInfos": [
+    {
+      "Name": "MetroStation",
+      "DisplayName": "地铁站",
+      "Code": "M"
+    }
+  ]
+}

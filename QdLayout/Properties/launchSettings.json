@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "QdLayout": {
+      "commandName": "Project"
+    },
+    "LightCAD1_YF": {
+      "commandName": "Executable",
+      "executablePath": "F:\\LightCAD1_ForkYF\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\LightCAD.WinForm.exe"
+    },
+    "LightCAD1_My": {
+      "commandName": "Executable",
+      "executablePath": "F:\\LightCAD1_ForkMy\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\LightCAD.WinForm.exe"
+    }
+  }
+}

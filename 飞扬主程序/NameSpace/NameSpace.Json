@@ -1,0 +1,308 @@
+﻿{
+  "Name": "场布施工设计",
+  "DisplayName": "场布施工设计",
+  "Description": "场布施工行业的类型配置文件",
+  "Categories": [
+    {
+      "Uuid": "C8086F0D-0C10-4A63-8D39-0A1809C79A83",
+      "Name": "临电系统",
+      "DisplayName": "临电系统",
+      "Major": "A",
+      "Description": "临电系统"
+    },
+    {
+      "Uuid": "aef46de4-2511-a52a-6558-b7d47c46b6fd",
+      "Name": "水箱",
+      "DisplayName": "水箱",
+      "Major": "A",
+      "Description": "水箱"
+    },
+    {
+      "Uuid": "986AAB76-5456-F693-3D03-699D5B40CCD6",
+      "Name": "地磅",
+      "DisplayName": "地磅",
+      "Major": "A",
+      "Description": "地磅"
+    },
+    {
+      "Uuid": "146364BD-BFB4-4B53-91B7-D710825DA0F5",
+      "Name": "五金",
+      "DisplayName": "五金",
+      "Major": "A",
+      "Description": "五金"
+    },
+    {
+      "Uuid": "E338A269-A671-4684-AFE6-271638C46F87",
+      "Name": "办公生活设施",
+      "DisplayName": "办公生活设施",
+      "Major": "A",
+      "Description": "办公生活设施"
+    },
+    {
+      "Uuid": "176A1ACF-E73E-4E9E-B784-FCE66DD4F202",
+      "Name": "员工进出",
+      "DisplayName": "员工进出",
+      "Major": "A",
+      "Description": "员工进出"
+    },
+    {
+      "Uuid": "5A9EC5E6-09BF-4DB3-9AD2-DD0DA74F099A",
+      "Name": "围墙",
+      "DisplayName": "围墙",
+      "Major": "A",
+      "Description": "围墙"
+    },
+    {
+      "Uuid": "7878DDA1-CB33-418C-80A3-28EB87FB02E8",
+      "Name": "基础材料",
+      "DisplayName": "基础材料",
+      "Major": "A",
+      "Description": "基础材料"
+    },
+    {
+      "Uuid": "F9B1020E-CBFC-4C54-AC8A-DAE42263880F",
+      "Name": "大门",
+      "DisplayName": "大门",
+      "Major": "A",
+      "Description": "大门"
+    },
+    {
+      "Uuid": "ED524ADA-6CEB-4564-B829-8F4FF1BEF132",
+      "Name": "安全小标语",
+      "DisplayName": "安全小标语",
+      "Major": "A",
+      "Description": "安全小标语"
+    },
+    {
+      "Uuid": "7FD2D861-49A5-47FF-B225-4608CDFE541C",
+      "Name": "宣传栏一",
+      "DisplayName": "宣传栏一",
+      "Major": "A",
+      "Description": "宣传栏一"
+    },
+    {
+      "Uuid": "5AFDCC32-BB72-405C-AA65-FF229EEE6B94",
+      "Name": "导向牌",
+      "DisplayName": "导向牌",
+      "Major": "A",
+      "Description": "导向牌"
+    },
+    {
+      "Uuid": "BAEE5DAC-402C-4635-83C0-3F3E222D11A4",
+      "Name": "工程机械",
+      "DisplayName": "工程机械",
+      "Major": "A",
+      "Description": "工程机械"
+    },
+    {
+      "Uuid": "D87293F1-2AE4-43CB-9890-EC2865F3B9DE",
+      "Name": "彩钢房",
+      "DisplayName": "彩钢房",
+      "Major": "A",
+      "Description": "彩钢房"
+    },
+    {
+      "Uuid": "E21AC561-D2A5-40E6-94B4-3BA2F58FC0BD",
+      "Name": "扣件",
+      "DisplayName": "扣件",
+      "Major": "A",
+      "Description": "扣件"
+    },
+    {
+      "Uuid": "41DC0014-E542-4591-A274-EB7EE43C472F",
+      "Name": "旗台",
+      "DisplayName": "旗台",
+      "Major": "A",
+      "Description": "旗台"
+    },
+    {
+      "Uuid": "46CE6AD3-F871-42AC-95D7-176882D32B0B",
+      "Name": "某项目临设族汇总",
+      "DisplayName": "某项目临设族汇总",
+      "Major": "A",
+      "Description": "某项目临设族汇总"
+    },
+    {
+      "Uuid": "8D6F6BF6-CD5E-467C-A20A-E9C76EDF6600",
+      "Name": "标牌",
+      "DisplayName": "标牌",
+      "Major": "A",
+      "Description": "标牌"
+    },
+    {
+      "Uuid": "3A7E5E11-92C6-45AD-AE3A-F320C3721810",
+      "Name": "模板加工棚",
+      "DisplayName": "模板加工棚",
+      "Major": "A",
+      "Description": "模板加工棚"
+    },
+    {
+      "Uuid": "DCF4159A-8D2C-42B9-8DBD-ECFC63E44A0E",
+      "Name": "模板支撑系统",
+      "DisplayName": "模板支撑系统",
+      "Major": "A",
+      "Description": "模板支撑系统"
+    },
+    {
+      "Uuid": "7C08CFA6-2F91-411F-92B7-2E4DA0AF20DD",
+      "Name": "沉降观测点",
+      "DisplayName": "沉降观测点",
+      "Major": "A",
+      "Description": "沉降观测点"
+    },
+    {
+      "Uuid": "6B4DB407-D9EF-41A8-A0E1-81D07A730BFF",
+      "Name": "洗车台",
+      "DisplayName": "洗车台",
+      "Major": "A",
+      "Description": "洗车台"
+    },
+    {
+      "Uuid": "794D3315-09EB-4389-BF1B-CC6F3FCD461A",
+      "Name": "灭火器",
+      "DisplayName": "灭火器",
+      "Major": "A",
+      "Description": "灭火器"
+    },
+    {
+      "Uuid": "C5A11502-A228-4D00-A8F3-051C39A88896",
+      "Name": "管道标识",
+      "DisplayName": "管道标识",
+      "Major": "A",
+      "Description": "管道标识"
+    },
+    {
+      "Uuid": "7E4D0BDD-4DF3-4A91-AA4A-1C7C502A5D14",
+      "Name": "花坛",
+      "DisplayName": "花坛",
+      "Major": "A",
+      "Description": "花坛"
+    },
+    {
+      "Uuid": "9FC56028-F919-490B-89D5-63E21B22E206",
+      "Name": "车位标识",
+      "DisplayName": "车位标识",
+      "Major": "A",
+      "Description": "车位标识"
+    },
+    {
+      "Uuid": "E69C46DB-3782-490B-9FEC-C43575D5E489",
+      "Name": "配景",
+      "DisplayName": "配景",
+      "Major": "A",
+      "Description": "配景"
+    },
+    {
+      "Uuid": "30BAAC28-714E-4024-A06F-60D601E1B239",
+      "Name": "钢筋加工棚",
+      "DisplayName": "钢筋加工棚",
+      "Major": "A",
+      "Description": "钢筋加工棚"
+    },
+    {
+      "Uuid": "DA6707A6-933C-41B9-A257-57CDBBA53F71",
+      "Name": "钢筋堆场",
+      "DisplayName": "钢筋堆场",
+      "Major": "A",
+      "Description": "钢筋堆场"
+    },
+    {
+      "Uuid": "37A2ACF1-119D-4774-9E47-6D599F464282",
+      "Name": "门卫",
+      "DisplayName": "门卫",
+      "Major": "A",
+      "Description": "门卫"
+    },
+    {
+      "Uuid": "168C4BAE-D916-4408-89B9-06D23F5022FD",
+      "Name": "成品粪水池",
+      "DisplayName": "成品粪水池",
+      "Major": "A",
+      "Description": "成品粪水池"
+    },
+    {
+      "Uuid": "6F38DE95-48EA-046B-7AD5-2CA7523A8C10",
+      "Name": "草坪",
+      "DisplayName": "草坪",
+      "Major": "A",
+      "Description": "草坪"
+    },
+    {
+      "Uuid": "5AB3613C-894D-88AC-B998-ABA502FF5F2F",
+      "Name": "基坑",
+      "DisplayName": "基坑",
+      "Major": "A",
+      "Description": "基坑"
+    },
+    {
+      "Uuid": "D6697F02-B6DF-D276-B247-7F6B5B086229",
+      "Name": "硬化地面",
+      "DisplayName": "硬化地面",
+      "Major": "A",
+      "Description": "硬化地面"
+    },
+    {
+      "Uuid": "56B72AE4-6776-292C-10E9-8A435B947641",
+      "Name": "路面硬化",
+      "DisplayName": "路面硬化",
+      "Major": "A",
+      "Description": "路面硬化"
+    },
+    {
+      "Uuid": "6A665DF7-8AFD-1BB4-39C5-0DBD89E052F7",
+      "Name": "土方回填",
+      "DisplayName": "土方回填",
+      "Major": "A",
+      "Description": "土方回填"
+    },
+    {
+      "Uuid": "408136A4-E639-DB7B-5519-9CBF14A8E10C",
+      "Name": "场地",
+      "DisplayName": "场地",
+      "Major": "A",
+      "Description": "场地"
+    },
+    {
+      "Uuid": "F6F335FB-33FA-5E4D-83D8-A20763F5B86E",
+      "Name": "出土道路",
+      "DisplayName": "出土道路",
+      "Major": "A",
+      "Description": "出土道路"
+    },
+    {
+      "Uuid": "5A5EC5E6-06BF-4DB3-4AD2-DD0DA52F078A",
+      "Name": "拟建建筑",
+      "DisplayName": "拟建建筑",
+      "Major": "A",
+      "Description": "拟建建筑"
+    },
+    {
+      "Uuid": "39319465-A82E-48C5-9887-E9FACD6463ED",
+      "Name": "防护栏杆",
+      "DisplayName": "防护栏杆",
+      "Major": "A",
+      "Description": "防护栏杆"
+    },
+    {
+      "Uuid": "EF0193DF-FB26-0BDE-978E-1A38C1B09102",
+      "Name": "城市道路",
+      "DisplayName": "城市道路",
+      "Major": "A",
+      "Description": "城市道路"
+    },
+    {
+      "Uuid": "445B55B8-5BB8-1807-B3BC-C709969E1E38",
+      "Name": "路口",
+      "DisplayName": "路口",
+      "Major": "A",
+      "Description": "路口"
+    }
+  ],
+  "MajorInfos": [
+    {
+      "Name": "Layout",
+      "DisplayName": "场布",
+      "Code": "L"
+    }
+  ]
+}

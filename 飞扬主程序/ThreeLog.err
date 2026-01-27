@@ -1,0 +1,5 @@
+ERROR! THREE.BufferGeometry.computeBoundingBox(): Computed min/max have NaN values. The 'position' attribute is likely to have NaN values. ThreeJs4Net.BufferGeometry 
+ERROR! THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The 'position' attribute is likely to have NaN values. ThreeJs4Net.BufferGeometry 
+ERROR! THREE.BufferGeometry.computeBoundingBox(): Computed min/max have NaN values. The 'position' attribute is likely to have NaN values. ThreeJs4Net.BufferGeometry 
+ERROR! THREE.BufferGeometry.computeBoundingBox(): Computed min/max have NaN values. The 'position' attribute is likely to have NaN values. ThreeJs4Net.BufferGeometry 
+ERROR! THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The 'position' attribute is likely to have NaN values. ThreeJs4Net.BufferGeometry 

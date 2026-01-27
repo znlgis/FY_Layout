@@ -1,0 +1,501 @@
+{
+  "Uuid": "AE7C672C-E2E1-4DC0-B2CD-AE6C2A1DEF35",
+  "Major": "A",
+  "Name": "门",
+  "DisplayName": "防护密闭门",
+  "Description": "防护密闭门",
+  "Manufacturer": null,
+  "Version": null,
+  "Category": "建筑施工图设计.门",
+  "FilePath": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinComDefs\\QdArch.lclib",
+  "Thumbnail": null,
+  "SubCategoryName": "密闭门",
+  "Origin": [
+    0,
+    0,
+    0
+  ],
+  "Commands": null,
+  "Features": null,
+  "PropertyDefs2": [
+    {
+      "Name": "Thickness",
+      "Souce": "Host",
+      "DisplayName": "厚度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1001,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "WallThickness",
+      "Souce": "Host",
+      "DisplayName": "墙厚度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1002,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Width",
+      "Souce": "Host",
+      "DisplayName": "宽度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1003,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Height",
+      "Souce": "Host",
+      "DisplayName": "高度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1004,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "Bottom",
+      "Souce": "Host",
+      "DisplayName": "底高度",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1005,
+      "DataType": "Double",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "IsLeft",
+      "Souce": "Host",
+      "DisplayName": "是否左开",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1006,
+      "DataType": "Bool",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "IsNear",
+      "Souce": "Host",
+      "DisplayName": "是否在墙体左侧",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1007,
+      "DataType": "Bool",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": null,
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "DoorMaterial",
+      "Souce": "Host",
+      "DisplayName": "门板材质",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1008,
+      "DataType": "Material",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": {
+        "Uuid": null,
+        "Name": null,
+        "Color": 4802886,
+        "RepeatTexture": null,
+        "Specular": 16777215,
+        "Shininess": 0,
+        "Opcity": 1,
+        "Metalness": 0,
+        "Roughness": 0.800000011920929,
+        "Clearcoat": 0,
+        "ClearcoatRoughness": 0
+      },
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    },
+    {
+      "Name": "HandleMaterial",
+      "Souce": "Host",
+      "DisplayName": "把手材质",
+      "Description": null,
+      "HelpInfo": null,
+      "IsArray": false,
+      "Id": 1009,
+      "DataType": "Material",
+      "IsSystem": false,
+      "Formula": null,
+      "Value": {
+        "Uuid": null,
+        "Name": null,
+        "Color": 12632256,
+        "RepeatTexture": null,
+        "Specular": 16777215,
+        "Shininess": 0,
+        "Opcity": 1,
+        "Metalness": 0,
+        "Roughness": 0.800000011920929,
+        "Clearcoat": 0,
+        "ClearcoatRoughness": 0
+      },
+      "Unit": null,
+      "Validation": null,
+      "Options": null,
+      "Group": null,
+      "IsForClass": false,
+      "OptionSource": null
+    }
+  ],
+  "Shape2dProviders": [
+    {
+      "Name": "防护密闭门2-800-300",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "d8b7e653-6774-4411-855b-f09b2e29a2b8",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门2-800-300.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门2-1000-300",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "cefdf471-f685-4459-8cdd-f7d5ddc58f6e",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门2-1000-300.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门2-1200-300",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "73a6536a-9a0b-4c48-8d8d-006eca156148",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门2-1200-300.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门2-1500-300",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "5cdcffca-9903-42c3-b464-ff50fcd7f476",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门2-1500-300.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门2-2000-300",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "dbcec490-6339-4023-8c38-75cca3d5a03e",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门2-2000-300.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门2-对开-700-500",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "401d7144-53e2-4c46-be64-b7c5f1826061",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门2-对开-700-500.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门2-邻开-700-500",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "cf453e42-8824-4ffe-afdf-7b985277a284",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门2-邻开-700-500.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门2-邻开-800-500",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "ce519155-42e8-47c1-b8f1-1c2ea38214c5",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门2-邻开-800-500.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门2-对开-800-500",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "5f2c38cd-0804-494a-bd14-607348c02c50",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门2-对开-800-500.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门-700-300",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "b8fc4c5b-8ec5-4e94-b0eb-73bcc8b4ef54",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门-700-300.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门-800-300",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "11707e24-4537-4aa9-9b56-0cbd4db73220",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门-800-300.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门-1000-300",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "a799f212-1165-410b-b564-8c8394e50180",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门-1000-300.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门-1200-300",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "9ba9c2c8-373f-43df-9120-876007653a52",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门-1200-300.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门-1500-300",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "937cfb75-673e-400e-9d36-93afb961072b",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门-1500-300.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门-2000-300",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "228eb1fe-3d9f-400a-a5e8-9b07a621c5fa",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门-2000-300.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门-2025-300",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "7da165d0-6732-4b06-b4f0-03c1c00dc32b",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门-2025-300.png"
+      },
+      "Relative3dName": null
+    },
+    {
+      "Name": "防护密闭门-2500-300",
+      "IsDefault": false,
+      "Type": "Shape2d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "b5e76155-6154-44cf-abf8-a15bd00d0c9b",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\二维\\防护密闭门-2500-300.png"
+      },
+      "Relative3dName": null
+    }
+  ],
+  "Solid3dProviders": [
+    {
+      "Name": "防护密闭门",
+      "IsDefault": false,
+      "Type": "Solid3d",
+      "SourceType": "ExternalDll",
+      "UseType": null,
+      "ScriptType": "None",
+      "EmbedScript": null,
+      "DllPath": ".\\BuiltinDllProvider\\QdArchProvider.dll",
+      "DllProviderUuid": "17e040d7-f0e2-4ad0-8a7c-5abe60cab52a",
+      "Thumbnail": {
+        "Src": "D:\\Light CAD\\lightcad1\\src\\LightCAD.WinForm\\bin\\Debug\\net8.0-windows\\win-x64\\BuiltinDllProvider\\.\\Image\\门\\密闭门\\三维\\防护密闭门.png"
+      },
+      "Relative2dName": null
+    }
+  ],
+  "DefaultMaterials2d": {
+    "门板": "7eb119fd-9422-4239-8973-1f8d388f0d84",
+    "把手": "7eb119fd-9422-4239-8973-1f8d388f0d84"
+  },
+  "DefaultMaterials3d": {
+    "门板": "73c6cf18-ec84-4f0f-9bd1-260fe63cc5d1",
+    "把手": "e599cb4a-84d6-4d54-8488-71c015a7279a"
+  },
+  "AlternateMaterial2d": "8e08ec0c-32f4-41ae-888c-96614f2843ce",
+  "AlternateMaterial3d": ""
+}

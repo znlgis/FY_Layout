@@ -1,0 +1,45 @@
+[
+    {
+      "Guid": "f38aa9a4-b147-4c20-8f94-db88922e4bf9",
+      "Name": "1#",
+      "Levels": [
+        {
+          "Name": "1F",
+          "Elevation": 0,
+          "S_Elevation": 0,
+          "Height": 3600,
+          "S_Height": 3600,
+          "Type": 1,
+          "Index": 1
+        },
+        {
+          "Name": "2F",
+          "Elevation": 3600,
+          "S_Elevation": 3600,
+          "Height": 3300,
+          "S_Height": 3300,
+          "Type": 1,
+          "Index": 2
+        },
+        {
+          "Name": "3F",
+          "Elevation": 6900,
+          "S_Elevation": 6900,
+          "Height": 3300,
+          "S_Height": 3300,
+          "Type": 1,
+          "Index": 3
+        },
+        {
+          "Name": "R1F",
+          "Elevation": 10200,
+          "S_Elevation": 10200,
+          "Height": 2100,
+          "S_Height": 2100,
+          "Type": 0,
+          "Index": 4
+        }
+      ],
+      "IsDelete": false
+    }
+]
